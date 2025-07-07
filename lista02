@@ -17,40 +17,31 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD DF
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/46
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD BAHIA
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TV MS TV CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dc/2b/90/MEVIHSZ_t.png" group-title="Canais | ABERTO",TV Amplitude Juara MT - RECORD
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dc/2b/90/MEVIHSZ_t.png" group-title="Canais | ABERTO",RECORD TV Amplitude Juara MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/14/a7/59/MEVIHT2_t.png" group-title="Canais | ABERTO",RECORD TV - TV VILA REAL
 https://5a2b083e9f360.streamlock.net:443/tvmt/tvmt.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/23/93/MEVIHT0_t.png" group-title="Canais | ABERTO",TV Tropical (Rede Record RN)
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/23/93/MEVIHT0_t.png" group-title="Canais | ABERTO",RECORD TV Tropical RN
 https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/02/be/MEVIHT3_t.png" group-title="Canais | ABERTO",RECORD RO SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/24/27/b7/MEVII9Z_t.png" group-title="Canais | ABERTO",BAND
-https://super-cdn.link/band/index.m3u8
+https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8e/24/ac/MEVIIA0_t.png" group-title="Canais | ABERTO",TV Vale do Uruará PA - BAND
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/39/b5/MEVIIA2_t.png" group-title="Canais | ABERTO",RBATV (Band PA)
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/39/b5/MEVIIA2_t.png" group-title="Canais | ABERTO",BAND PA RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1327902141.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/37/84/26/MEVIIA3_t.png" group-title="Canais | ABERTO",TV ARAPUAN
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/37/84/26/MEVIIA3_t.png" group-title="Canais | ABERTO",BAND TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9e/c5/55/MEVIIZQ_t.png" group-title="Canais | ABERTO",REDE TV! MAIS UMUARAMA
@@ -59,8 +50,8 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV! PARANÁ
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/d6/51/MEVIIZU_t.png" group-title="Canais | ABERTO",REDE TV! TOCANTINS
-https://hubwatch.online/RedeTVTO/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e0/d6/51/MEVIIZU_t.png" group-title="Canais | ABERTO",REDE TV! GO
+https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/redetv/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d840436d3b981ac63cc&bpkio
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/af/a2/d4/MEVIIZW_t.png" group-title="Canais | ABERTO",REDE TV! SUDOESTE
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
