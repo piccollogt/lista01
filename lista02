@@ -17,6 +17,9 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO
+https://live-as-08-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUyMTE5ODQyLCJpYXQiOjE3NTIwMzM0NDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMWU3MmFjZWUtOTk3OC00MDllLWJhZmMtZmZiNDZhNWI1ZTljIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.DqFuW3EvackUa-NNX7VnPHm0JuEEiDe3ZuHt1Kjszc0TsA_vCYK7dl5jxKrg6Md4LFQbLE1vKRbsLYoSo3Ow5U4ZG0m-UMXGGKy1ZciZw_IgI84CH32A44ADsi6tVAwElWNdRxNWwDxnW7VY_mUngzy5MWvGKQvR3EM2koMLPPr_4ZIC3qxTZhQkAk21QUlc5UYKEQPizo4ICR4-xP76E8NgU5hjJ5XUwha2auSwGBxE0P2uOzdPM2NVi7Dn0rHTEMtL07W_j1j_iIk-KIGTzNzvV-9PowMCTIf6SbWe3TbI6XmKkPCXxHCIyrxVNjwra51rhosQ9q1nns_IJN7c9g/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/0luDAFhxS7CCbGH8q01QIg/stream/75e5bd87-5062-44e5-822b-52ae0d301d34:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
