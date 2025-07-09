@@ -1797,9 +1797,6 @@ https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZW
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e3/dc/f5/MEVPRQN_t.png" group-title="Canais | INFANTIL",MI TV
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/47/13/98/MEVPRQI_t.png" group-title="Canais | INFANTIL",KID MAIS
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/d9/20/MEVPRQG_t.png" group-title="Canais | INFANTIL",F. Kids Network
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
@@ -1815,22 +1812,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007c
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/98/24/25/MEVPRQJ_t.png" group-title="Canais | INFANTIL",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1570960268_b1548000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/d3/1f/MEVPRQB_t.png" group-title="Canais | INFANTIL",TV KIDMAIS
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w560660843.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/23/55/ca/MEVPRQE_t.png" group-title="Canais | INFANTIL",TRÊS PASSOS TV
 https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e6/25/e0/MEVPRQR_t.png" group-title="Canais | INFANTIL",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/5f/0a/MEVPRQP_t.png" group-title="Canais | INFANTIL",WEB TV CAICO
-https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/chunklist_w967872467.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/67/5d/MEVPRQS_t.png" group-title="Canais | INFANTIL",TOP TV ON BRASIL
-https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/chunklist_w1524461515.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/67/5d/MEVPRQS_t.png" group-title="Canais | INFANTIL",TOP TV ON BRASIL HD
 https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/64/ef/55/MEVPRQC_t.png" group-title="Canais | INFANTIL",JETSONS TV
@@ -1845,44 +1833,17 @@ https://stmv1.srvif.com/tvserie/tvserie/chunklist_w200396624.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5d/68/48/MEVPS1K_t.png" group-title="Canais | INFANTIL",TVZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/6a/fa/6d/MEVPS1Q_t.png" group-title="Canais | INFANTIL",Peppa Pig
-https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/73/09/41/MEVPS1O_t.png" group-title="Canais | INFANTIL",A Casa Mágica da Gabby
-https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e1/eb/da/MEVPS1M_t.png" group-title="Canais | INFANTIL",Talking Tom & Amigos
-https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b6/54/0e/MEZPWZG_t.png" group-title="Canais | INFANTIL",KIDS SHOW
-https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/dd/e7/MEZPX3T_t.png" group-title="Canais | INFANTIL",DESENHOS CLASSICOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/17/89/MEZPX99_t.png" group-title="Canais | INFANTIL",HTO KIDS
-https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/83/5c/ea/MEZPXII_t.png" group-title="Canais | INFANTIL",OS PADRINHOS MAGICOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/29/42/fe/MEZPXOX_t.png" group-title="Canais | INFANTIL",DORA A AVENTUREIRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e1/eb/da/MEVPS1M_t.png" group-title="Canais | INFANTIL",Talking Tom & Amigos
-https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/14/14/MEZP3T7_t.png" group-title="Canais | INFANTIL",THE SMURFS TV
 https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0e/99/11/MEZP3T6_t.png" group-title="Canais | INFANTIL",MR BEAN
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/eb/b5/e7/MEVPS1H_t.png" group-title="Canais | INFANTIL",Rugrats
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbs4.imagebam.com/bf/74/63/MEVQ0YY_t.png" group-title="Canais | INFANTIL",Nickelodeon Rocket Power
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/48/31/a1/MEVQ0YV_t.png" group-title="Canais | INFANTIL",Baby Shark
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1895,9 +1856,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/96/5f/MEVQ0ZF_t.png" group-title="Canais | INFANTIL",TELETUBBIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/08/43/74/MEVQ0Z4_t.png" group-title="Canais | INFANTIL",PAW Patrol Patrulha Canina
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Nick Teen" tvg-logo="https://thumbs4.imagebam.com/87/10/ef/MEVPRQU_t.png" group-title="Canais | INFANTIL",Nick Teen
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
@@ -1932,25 +1890,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/56/d4/11/MEVQG01_t.png" group-title="Canais | INFANTIL",Oggy e as Baratas Tontas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0e/7d/b9/MEZQR59_t.png" group-title="Canais | INFANTIL",HEY ARNOLD!
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b4e477d512590008ca6849/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/c7/e0/MEZQR8A_t.png" group-title="Canais | INFANTIL",PLUTO TV CINEMINHA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 ############################################################################ Canais | CANAIS DE ANIME
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/b6/39/MEVL3YJ_t.png" group-title="Canais | CANAIS DE ANIME",Anime Tv
-https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/f9/80/MEVL3YT_t.png" group-title="Canais | CANAIS DE ANIME",ADULT SWIM
-https://anonstream.zip/adultswim/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/78/a1/ce/MEVL3YP_t.png" group-title="Canais | CANAIS DE ANIME",ANIME STATION TV
-https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
+https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/eb/1c/MEVL3YW_t.png" group-title="Canais | CANAIS DE ANIME",OTAKU SIGN TV
-https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b3/51/e5/MEVL3YL_t.png" group-title="Canais | CANAIS DE ANIME",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
@@ -1958,29 +1907,11 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/38/0f/MEVL3YR_t.png" group-title="Canais | CANAIS DE ANIME",GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/61/85/35/MEVL3YY_t.png" group-title="Canais | CANAIS DE ANIME",ANIMAX TV
-https://stream.ichibantv.com:3547/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a5/f8/fc/MEVL3YV_t.png" group-title="Canais | CANAIS DE ANIME",LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/51/1b/b4/MEVL3YH_t.png" group-title="Canais | CANAIS DE ANIME",AniTV
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/8a/62/MEZREKO_t.png" group-title="Canais | CANAIS DE ANIME",OTAKU
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/11/d5/2b/MEYC5MX_t.png" group-title="Canais | CANAIS DE ANIME",MIXIFY TV
-https://stream.gia.tv/giatvplayout7/giatv-208696/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/c8/46/MEVL3YN_t.png" group-title="Canais | CANAIS DE ANIME",EnerGeek
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/7f/72/MEZPWGG_t.png" group-title="Canais | CANAIS DE ANIME",ANIMESTATION
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/29/02/60/MEZQBWO_t.png" group-title="Canais | CANAIS DE ANIME",SUPER ANIME GB
-http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/60/19/MEZQU7V_t.png" group-title="Canais | CANAIS DE ANIME",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1999,21 +1930,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/51/54/MEZQBPK_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ES 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/51/54/MEZQBPK_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ES 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/51/54/MEZQBPK_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ES 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/51/54/MEZQBPK_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ES 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/51/54/MEZQBPK_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ES 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
 ############################################################################ Canais | ANIMES 24 HORAS
 
