@@ -1306,9 +1306,6 @@ https://stmv2.voxtvhd.com.br/chictv/chictv/playlist.m3u8
 
 ############################################################################ Canais | NOTICIAS
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0e/0b/a1/MEVJ15H_t.png" group-title="Canais | NOTICIAS",EuroNews Português
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/87/e8/af/MEZQPSP_t.png" group-title="Canais | NOTICIAS",TVD NEWS
 http://201.159.95.110:25461/live/site/site/666.m3u8
 
@@ -1316,18 +1313,12 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/26/f9/23/MEVJ15M_t.png" group-title="Canais | NOTICIAS",ENTORNO SUL WEB TV
-https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1552669427.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/26/f9/23/MEVJ15M_t.png" group-title="Canais | NOTICIAS",ENTORNO SUL WEB TV HD
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1791419391.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9d/5d/d6/MEVJ15J_t.png" group-title="Canais | NOTICIAS",JOVEM PAN NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/c7/dd/MEVJ15D_t.png" group-title="Canais | NOTICIAS",CNN BRASIL
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/c7/dd/MEVJ15D_t.png" group-title="Canais | NOTICIAS",CNN BRASIL HD
 https://d25usgadhphvwi.cloudfront.net:443/hls/stv-plus1280x720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1e/69/14/MEZP0GT_t.png" group-title="Canais | NOTICIAS",CNN BRASIL MONEY
@@ -1336,17 +1327,11 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/34/d0/MEVJ15L_t.png" group-title="Canais | NOTICIAS",RECORD NEWS
 https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/34/d0/MEVJ15L_t.png" group-title="Canais | NOTICIAS",RECORD NEWS HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d0/fe/34/MEVJ15G_t.png" group-title="Canais | NOTICIAS",Rede Sim
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1100729218.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/02/62/da/MEVJ15F_t.png" group-title="Canais | NOTICIAS",Globo News
-http://super-cdn.link/globonews/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/e4/95/MEVJ15I_t.png" group-title="Canais | NOTICIAS",Band News
-http://super-cdn.link/bandnews/index.m3u8
+https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/7b/bb/MEZP0H7_t.png" group-title="Canais | NOTICIAS",CNBC Brasil
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
@@ -1367,7 +1352,7 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/98/9f/45/MEVJ17Z_t.png" group-title="Canais | NOTICIAS",NEW BRASIL
-https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
+https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/33/c4/da/MEVJ17Y_t.png" group-title="Canais | NOTICIAS",011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
@@ -1383,8 +1368,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b2/b7/1c/MEVJ1KS_t.png" group-title="Canais | INTERNACIONAL",TV CNB AMERICAN
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/09/70/MEVJ1KU_t.png" group-title="Canais | INTERNACIONAL",Breaking News By Leadstory
-https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/09/70/MEVJ1KU_t.png" group-title="Canais | INTERNACIONAL",WFAA Channel 8 - Breaking News Ao Vivo
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0f/78/02/MEVJ1KW_t.png" group-title="Canais | INTERNACIONAL",Bloomberg TV
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
@@ -1401,17 +1386,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a0/65/02/MEVJ1KZ_t.png" group-title="Canais | INTERNACIONAL",TV BRICS
 https://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0e/0b/a1/MEVJ15H_t.png" group-title="Canais | INTERNACIONAL",Euronews Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/8d/42/MEVJ1RX_t.png" group-title="Canais | INTERNACIONAL",Deportes | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/7b/b7/MEVJ1RR_t.png" group-title="Canais | INTERNACIONAL",E-Sports | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/11/0a/69/MEVJ1S0_t.png" group-title="Canais | INTERNACIONAL",TV5 Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/8f/4e/MEVJ1S1_t.png" group-title="Canais | INTERNACIONAL",TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -1424,15 +1400,6 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 
 ############################################################################ Canais | AGRONEGÓCIOS
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/81/c7/c1/MEVJ4NT_t.png" group-title="Canais | AGRONEGÓCIOS",TV FOLHA DO CAMPO
-https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w492114406.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/81/c7/c1/MEVJ4NT_t.png" group-title="Canais | AGRONEGÓCIOS",TV FOLHA DO CAMPO HD
-https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w1867203333.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/25/0c/2b/MEVJ4NI_t.png" group-title="Canais | AGRONEGÓCIOS",CANAL DO BOI
-https://aovivo.equipea.com.br:5443/aovivort/streams/JNFSspFZZZkSFmc81732976316167.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/16/88/63/MEVJ4NP_t.png" group-title="Canais | AGRONEGÓCIOS",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
@@ -1442,11 +1409,8 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bb/7f/57/MEVJ4NN_t.png" group-title="Canais | AGRONEGÓCIOS",AGROMAIS
 https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/d1/6a/MEZPZF6_t.png" group-title="Canais | AGRONEGÓCIOS",AGROPLUS
-https://alanza.iptv2022.com/sh/AgroPlus/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ee/7f/8d/MEVJ4NR_t.png" group-title="Canais | AGRONEGÓCIOS",NOVA TV AGROTOUR
-https://video01.kshost.com.br/marcelo6682/marcelo6682/chunklist_w1555576048.m3u8
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8f/aa/64/MEVJ4NS_t.png" group-title="Canais | AGRONEGÓCIOS",AGRO BUSINESS
 https://stmv2.voxtvhd.com.br/agrobusiness/agrobusiness/playlist.m3u8
@@ -1454,14 +1418,8 @@ https://stmv2.voxtvhd.com.br/agrobusiness/agrobusiness/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/79/4e/MEVJ4NJ_t.png" group-title="Canais | AGRONEGÓCIOS",CANAL SOLO FERTIL
 https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756_output_0.m3u8?session=DzbbDSYSDq7FJ5HzcLWCFj
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/95/99/61/MEVJ4NH_t.png" group-title="Canais | AGRONEGÓCIOS",RURAL NO AR
-https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w525735125.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4b/cf/6d/MEVJ4NQ_t.png" group-title="Canais | AGRONEGÓCIOS",COOP SC
 https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/fc/6a/MEZP0KI_t.png" group-title="Canais | AGRONEGÓCIOS",TV Mais MS
-https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a0/02/02/MEZPZHS_t.png" group-title="Canais | AGRONEGÓCIOS",TV MILAGRO
 http://201.87.136.36:8091/hls/tvmilagro.m3u8
@@ -1477,14 +1435,8 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/80/67/MEVJO8Z_t.png" group-title="Canais | GOVERNAMENTAIS",TV Camara De Deputados
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/aa/b0/41/MEVJO8X_t.png" group-title="Canais | GOVERNAMENTAIS",TV Justiça
-https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/98/81/MEVJO8Y_t.png" group-title="Canais | GOVERNAMENTAIS",TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/98/81/MEVJO8Y_t.png" group-title="Canais | GOVERNAMENTAIS",TV CÂMARA HD
-https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8e/07/79/MEVJO90_t.png" group-title="Canais | GOVERNAMENTAIS",TV CAMARA JOAO PESSOA
 https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8
@@ -1501,12 +1453,6 @@ https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/chunklist_w199332
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ab/45/9d/MEVJO92_t.png" group-title="Canais | GOVERNAMENTAIS",TV ALBA
 https://live.mediastreaming.com.br/tvalba/7e7b424cc5a8528480d3b2157d27f516.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/1d/ba/MEVJO8V_t.png" group-title="Canais | GOVERNAMENTAIS",TV ALCE
-http://srv6.zoeweb.tv:1935/z404-live/stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/b8/de/MEVJO9D_t.png" group-title="Canais | GOVERNAMENTAIS",TV ALMT
-https://streaming.al.mt.gov.br/test/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/b1/41/MEVJO9E_t.png" group-title="Canais | GOVERNAMENTAIS",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 
@@ -1522,16 +1468,16 @@ https://ott01.al.rs.gov.br/meevaor/service3/index.m3u8
 ############################################################################ Canais | EDUCATIVOS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/38/78/d7/MEVJOJJ_t.png" group-title="Canais | EDUCATIVOS",TV EDUCADORA
-https://cdn.mycloudstream.io/hls/live/broadcast/hlzk66ri/index.m3u8
+https://srv2.zcast.com.br/radioestereosomdelimeiraltda3080/radioestereosomdelimeiraltda3080/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/91/c6/9d/MEZP2DU_t.png" group-title="Canais | EDUCATIVOS",TV HISTÓRIA
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/65/aa/2f/MEWKYFN_t.png" group-title="Canais | EDUCATIVOS",CANAL FUTURA
-https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
+https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ea/0c/42/MEVJOJN_t.png" group-title="Canais | EDUCATIVOS",Manual Do Mundo
-https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/0b/75/MEVJOJP_t.png" group-title="Canais | EDUCATIVOS",WILDEARTH
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d187c6c678b9ad43e6ecef042a9f9581fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c062017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abe65911d86da8e50141c72b11fa83439c8101b287875c8315807fa3459ac3a682d3198be4255293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f2bed372ef658ba6aa604a6f34bb3efceb7aea796c5b6395102da8f908fe93b32b064eea1e6971416fca3412d13993f9c4a5f49e23816b5f3e55436cfebb21e3bb989e1310ff5bcbf86fdb98e4bd317cfc4fd9e387882026e0cab52b89361d728922de69e53696b444aa99542d7c6f76a703401d5db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b82af4cf9236c1752f3c12d59445e749fbb355a7e2a953791b9a1d67e0704e3e0debe981d69755f39664cddacb40ad8e4a60e1219c65f231a04331f840bdb6c9f4d093727c71adcbb1a36e222243eedb3304d500ec799a9e0fe54e29c1207d7bfc8a2c5ca2d8b3f16/11/1920x1080_4716800/index.m3u8
@@ -1560,12 +1506,6 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a2/2c/26/MEVJOJD_t.png" group-title="Canais | EDUCATIVOS",RT DOCUMENTARY
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/10/5b/e4/MEVJORT_t.png" group-title="Canais | EDUCATIVOS",CANAL CURTA!
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/a5/eb/MEVJORW_t.png" group-title="Canais | EDUCATIVOS",LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/a5/eb/MEVJORW_t.png" group-title="Canais | EDUCATIVOS",LOVE NATURE
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 
@@ -1583,12 +1523,6 @@ https://caikron.com.br:19360/tvandradas/tvandradas.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/8c/6c/MEVJSN0_t.png" group-title="Canais | CATÓLICOS",TV PADRE CÍCERO
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w152186620.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/8c/6c/MEVJSN0_t.png" group-title="Canais | CATÓLICOS",TV PADRE CÍCERO HD
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b0/31/1a/MEVJSN7_t.png" group-title="Canais | CATÓLICOS",Canção Nova
-https://ythls.armelin.one/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e8/1a/bb/MEVJSN4_t.png" group-title="Canais | CATÓLICOS",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
@@ -1602,7 +1536,7 @@ https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w67951043
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/42/cf/8f/MEVJSN3_t.png" group-title="Canais | CATÓLICOS",REDE SÉCULO 21
-https://cdn.live.br1.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b5795840.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c5/e5/52/MEVJSN2_t.png" group-title="Canais | CATÓLICOS",TV PAI ETERNO
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
@@ -1611,7 +1545,7 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/47/ee/a6/MEVJSN8_t.png" group-title="Canais | CATÓLICOS",TV PENTECOSTES
-https://stmv2.samcast.com.br/radiopentecostes/radiopentecostes/chunklist_w1659628034.m3u8
+https://stmv2.samcast.com.br/radiopentecostes/radiopentecostes/chunklist_w1203475531.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/2f/84/MEVJSN6_t.png" group-title="Canais | CATÓLICOS",TV VIANNEY
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/chunklist_w570451902_b1000000_slen.m3u8
@@ -1622,37 +1556,19 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/fd/bf/MEVJSMY_t.png" group-title="Canais | CATÓLICOS",Tv Horizonte
 https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b5/77/18/MEVJSN5_t.png" group-title="Canais | CATÓLICOS",Web Tv Boanova
-https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
-
 ############################################################################ Canais | EVANGÉLICOS
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/03/43/8e/MEVKCFI_t.png" group-title="Canais | EVANGÉLICOS",FONTE TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/03/43/8e/MEVKCFI_t.png" group-title="Canais | EVANGÉLICOS",FONTE TV HD
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6f/49/a1/MEVKCFW_t.png" group-title="Canais | EVANGÉLICOS",BOA VONTADE TV
-https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/e4/2d/MEVKCFK_t.png" group-title="Canais | EVANGÉLICOS",Rede Brasil de Comunicação
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c9/3c/48/MEVKCFR_t.png" group-title="Canais | EVANGÉLICOS",Rede CNT
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9f/47/b7/MEVKCFQ_t.png" group-title="Canais | EVANGÉLICOS",RIT TV
-https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3e/6e/51/MEVKCFN_t.png" group-title="Canais | EVANGÉLICOS",Rede Super
-https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w256135074.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3e/6e/51/MEVKCFN_t.png" group-title="Canais | EVANGÉLICOS",Rede Super HD
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/2e/19/MEVKCFV_t.png" group-title="Canais | EVANGÉLICOS",TV PELA FE
-https://stmv1.samcast.com.br/pelafetv/pelafetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/31/b8/ac/MEVKCFY_t.png" group-title="Canais | EVANGÉLICOS",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f9d1a2a7-151a-40d8-8eba-fd93d7a34c5c.m3u8
@@ -1667,7 +1583,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_b425d273-0b43-48e7-889a-3b2db16a8bd2.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/0f/72/MEVKCFS_t.png" group-title="Canais | EVANGÉLICOS",Rede Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/87/f0/MEVKCFP_t.png" group-title="Canais | EVANGÉLICOS",TVS PE
 https://video01.kshost.com.br/antonio9510/antonio9510/chunklist_w961460036.m3u8
@@ -1708,23 +1624,8 @@ https://stmv1.voxtvhd.com.br/8000/8000/chunklist_w460641440.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ee/ba/40/MEVKCTW_t.png" group-title="Canais | EVANGÉLICOS",IBMC TV
 https://stmv1.srvstm.com/igreja9480/igreja9480/chunklist_w1828550163.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/e7/fc/MEVKCTQ_t.png" group-title="Canais | EVANGÉLICOS",WEB TV FONTE VIVA GOSPEL
-https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/chunklist_w933133615.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/2e/19/MEVKCFV_t.png" group-title="Canais | EVANGÉLICOS",PELA FÉ TV GOSPEL
-https://stmv1.samcast.com.br/pelafetv/pelafetv/chunklist_w1521544827.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e6/37/ac/MEVKD3Q_t.png" group-title="Canais | EVANGÉLICOS",TV SUPER GOSPEL
-https://srv3.zcast.com.br/7002/7002/chunklist_w1570108837.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fa/88/e6/MEVKD3V_t.png" group-title="Canais | EVANGÉLICOS",MDG TV
-https://tv02.zas.media:1936/mdgtv/mdgtv/chunklist_w1027308776.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d6/ba/37/MEVKD3T_t.png" group-title="Canais | EVANGÉLICOS",TV MISSÃO
 https://video05.logicahost.com.br/tvmissao/tvmissao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/22/40/MEVKD3M_t.png" group-title="Canais | EVANGÉLICOS",TV CRISTO VIVE
-https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1610927639.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c2/a7/cd/MEVKD3Z_t.png" group-title="Canais | EVANGÉLICOS",TV TEMPO DE VITÓRIA
 https://5cf4a2c2512a2.streamlock.net/tempodevitoria/tempodevitoria/chunklist_w333621650.m3u8
@@ -1765,12 +1666,6 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w51467599
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c1/18/51/MEVKGQD_t.png" group-title="Canais | EVANGÉLICOS",TV WEB JESUS CRISTO PARA AS NAÇÕES
 https://stmv4.voxtvhd.com.br/apostoloroberto/apostoloroberto/chunklist_w1122871039.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/12/ef/MEVKGQB_t.png" group-title="Canais | EVANGÉLICOS",KURIAKOS CINE
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1361393018_b30048000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/12/ef/MEVKGQB_t.png" group-title="Canais | EVANGÉLICOS",KURIAKOS CINE HD
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1301872274_b413000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/40/20/MEVKGQI_t.png" group-title="Canais | EVANGÉLICOS",GOSPEL MOVIES TELEVISION
 https://stmv1.srvif.com/gospelf/gospelf/chunklist.m3u8
 
@@ -1785,28 +1680,16 @@ https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/playli
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/71/47/MEVKHOA_t.png" group-title="Canais | TELEVENDAS",TV DO CARRO
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/49/01/b0/MEVKHOW_t.png" group-title="Canais | TELEVENDAS",POLISHOP TV
-https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/13/5c/e6/MEVKHO7_t.png" group-title="Canais | TELEVENDAS",TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/61/73/b0/MEVKHP4_t.png" group-title="Canais | TELEVENDAS",TV MAIS ABC
-https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5f/c1/df/MEVKHOF_t.png" group-title="Canais | TELEVENDAS",TV TUDO BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/20/71/2b/MEVKHOQ_t.png" group-title="Canais | TELEVENDAS",UP TV AMERICANA
-https://ythls.armelin.one/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 
 ############################################################################ Canais | ESPORTES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/cb/26/MEVKYHT_t.png" group-title="Canais | ESPORTES",ESPORTES BRASILIA
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1584452734.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5b/cb/26/MEVKYHT_t.png" group-title="Canais | ESPORTES",ESPORTES BRASILIA HD
-https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a2/70/66/MEVKYI4_t.png" group-title="Canais | ESPORTES",Canal do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
@@ -1829,32 +1712,14 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/10/97/MEVKYHF_t.png" group-title="Canais | ESPORTES",FUEL TV
 https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/cb543d187c6c678b9ad43e6ecef042a9f9581fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c062017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fde05546de3fa0b70140942910fa83439c8201ea83d65e83458420a5129bc3f88b854483e4255293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f2bed372ef658ba6aa604a6f34bb3efceb7aea796c5b6395102da8f908fe93b32b064eea1e6971416fca3412d13993f9c4a5f49e23816b5f3e55436cfebb21e3bb989e1310ff5bcbf86fdb98e4bd317cfc4fd9e387882026e0cab52b89361d728922de69e53696b444aa99542d7c6f76a703401d5db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b82af4cf9236c1752f3c12d59445e749fbb355a7e2a953791b9a1d67e0704e3e0debe981d69755f39664cddacb40ad8e4a60e1219c65f231a04331f840bdb6c9f4d093727c71adcbb1a36e222243eedb3304d500fc79ee099e636abc800e604a9d598e2e86535d44272557b04b6fa9f3d/161/1920x1080_4716800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/10/97/MEVKYHF_t.png" group-title="Canais | ESPORTES",FUEL TV - LINK 2
-https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/87/db/fc/MEVKYI9_t.png" group-title="Canais | ESPORTES",World Poker Tour
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/ec/11/MEVKYI0_t.png" group-title="Canais | ESPORTES",Cazé TV
-https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/ec/11/MEVKYI0_t.png" group-title="Canais | ESPORTES",Cazé TV - Samsung TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/85/e5/MEVKYHN_t.png" group-title="Canais | ESPORTES",NBA tv CA
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/145094&amp;f=.ch
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/eb/87/3a/MEVKYHL_t.png" group-title="Canais | ESPORTES",Real Madrid Tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2b/63/5b/MEVKYI7_t.png" group-title="Canais | ESPORTES",RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d0/81/09/MEVKYHQ_t.png" group-title="Canais | ESPORTES",SPORTS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/e1/60/MEVKZ6Q_t.png" group-title="Canais | ESPORTES",RS SPORTS
-https://video03.logicahost.com.br/rssports/rssports/playlist.m3u8
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/e1/60/MEVKZ6Q_t.png" group-title="Canais | ESPORTES",RS SPORTS 2
 https://video03.logicahost.com.br/rssports2/rssports2/playlist.m3u8
@@ -1871,12 +1736,6 @@ https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/5b/3d/MEZP2YL_t.png" group-title="Canais | ESPORTES",RS NEWS
 https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/e1/60/MEVKZ6Q_t.png" group-title="Canais | ESPORTES",RS NEWS WEB TV PPW
-https://video03.logicahost.com.br/rstv/rstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e1/b5/1b/MEVKZ79_t.png" group-title="Canais | ESPORTES",ORIGIN SPORTS
-https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a4/7b/20/MEVKZ6U_t.png" group-title="Canais | ESPORTES",MOTORVISION - ALEMANHA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
 
@@ -1888,18 +1747,6 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/27/6c/MEVKZ78_t.png" group-title="Canais | ESPORTES",DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/55/a4/03/MEVKZ75_t.png" group-title="Canais | ESPORTES",COMBATE GLOBAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5a/c0/5c/MEVKZ7C_t.png" group-title="Canais | ESPORTES",Canal GOAT
-https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5a/c0/5c/MEVKZ7C_t.png" group-title="Canais | ESPORTES",Canal GOAT 2
-https://cr7v.short.gy/live/CanalGOAT/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5a/c0/5c/MEVKZ7C_t.png" group-title="Canais | ESPORTES",Canal GOAT 3
-https://cr7v.short.gy/manotv/GOAT/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/2e/d6/MEZP2TT_t.png" group-title="Canais | ESPORTES",UNIQUE SPORTS 1
 https://pop.uniquetv.com.br/uniquesports1/index.m3u8
@@ -1913,123 +1760,8 @@ https://pop.uniquetv.com.br/uniquesports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e7/c3/f4/MEZP2WJ_t.png" group-title="Canais | ESPORTES",AUTO TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/0e/34/MEVKZ6R_t.png" group-title="Canais | ESPORTES",CANELA SPORTS
-https://amg00658-amg00658c28-canelatv-international-5109.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesltta-canelatvinternational/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/68/24/MEVKZ73_t.png" group-title="Canais | ESPORTES",LUCHA LIBRE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-############################################################################ Canais | ESPORTES EM ESPANHOL
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d1/1f/80/MEWHCG4_t.png" group-title="Canais | ESPORTES EM ESPANHOL",SKY LA LIGA
-http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1a/d1/8b/MEZQYU1_t.png" group-title="Canais | ESPORTES EM ESPANHOL",INTERNETV DEPORTES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0e/5d/9f/MEZQYU0_t.png" group-title="Canais | ESPORTES EM ESPANHOL",AYM SPORTS
-https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0e/5d/9f/MEZQYU0_t.png" group-title="Canais | ESPORTES EM ESPANHOL",AYM SPORTS HD
-https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dd/b1/49/MEWHCGX_t.png" group-title="Canais | ESPORTES EM ESPANHOL",Claro Sport
-http://181.78.105.146:2000/play/a053/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6e/00/41/MEVQHXO_t.png" group-title="Canais | ESPORTES EM ESPANHOL",ESPN 3
-http://190.60.32.178:8178/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/94/c9/d4/MEWH5HL_t.png" group-title="Canais | ESPORTES EM ESPANHOL",ESPN 6
-http://190.60.32.178:8178/play/a0aa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/76/01/MEVROR0_t.png" group-title="Canais | ESPORTES EM ESPANHOL",TUDN USA
-http://tvmate.icu:8080/Alan/Alan1234/82241
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/ee/70/MEWH3XF_t.png" group-title="Canais | ESPORTES EM ESPANHOL",FOX Deportes
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9b/f7/e8/MEZP2Z5_t.png" group-title="Canais | ESPORTES EM ESPANHOL",Azteca Deportes
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a4/f6/30/MEZP30G_t.png" group-title="Canais | ESPORTES EM ESPANHOL",Canal De Deportes CRTV Chile
-https://videolatam.com:3558/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7b/dd/df/MEZP31N_t.png" group-title="Canais | ESPORTES EM ESPANHOL",Deportes13 TV
-https://dai.google.com/linear/hls/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/91/f6/a4/MEZP35D_t.png" group-title="Canais | ESPORTES EM ESPANHOL",Life Fit
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/27/c3/MEZP37P_t.png" group-title="Canais | ESPORTES EM ESPANHOL",CANELA SPORTS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6e/77/65/MEVNUIO_t.png" group-title="Canais | ESPORTES EM ESPANHOL",World Poker Tour
-https://amg00218-amg00218c2-canelatv-international-5827.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-canelatvinternational/playlist.m3u8
-
-############################################################################ Canais | ESPORTES EM INGLÊS
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/96/af/MEWH9WK_t.png" group-title="Canais | ESPORTES EM INGLÊS",YES NETWORK
-http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/96/af/MEWH9WK_t.png" group-title="Canais | ESPORTES EM INGLÊS",YES NETWORK - LINK 2
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/ab/33/MEWHA45_t.png" group-title="Canais | ESPORTES EM INGLÊS",FS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/ab/33/MEWHA45_t.png" group-title="Canais | ESPORTES EM INGLÊS",FS 1 - LINK 2
-http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/64/9b/MEVQHXN_t.png" group-title="Canais | ESPORTES EM INGLÊS",ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/64/9b/MEVQHXN_t.png" group-title="Canais | ESPORTES EM INGLÊS",ESPN 2 - LINK 2
-http://fl5.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/06/dc/MEWHAJ6_t.png" group-title="Canais | ESPORTES EM INGLÊS",Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5f/8a/22/MEWHAVB_t.png" group-title="Canais | ESPORTES EM INGLÊS",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/c9/08/MEWHB0D_t.png" group-title="Canais | ESPORTES EM INGLÊS",NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/9e/28/MEWHCA5_t.png" group-title="Canais | ESPORTES EM INGLÊS",True Sports 3
-https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4f/eb/60/MEWHCA6_t.png" group-title="Canais | ESPORTES EM INGLÊS",BeIn Sports
-https://www.livedoomovies.com:4431/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/bc/6f/MEZP3AJ_t.png" group-title="Canais | ESPORTES EM INGLÊS",XFC TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/49/10/b1/MEZP3BB_t.png" group-title="Canais | ESPORTES EM INGLÊS",Bike Mag
-https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-plexus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/35/d2/33/MEZP3CN_t.png" group-title="Canais | ESPORTES EM INGLÊS",Tennis+
-https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5e/b0/b0/MEZP3CV_t.png" group-title="Canais | ESPORTES EM INGLÊS",Motor Racing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/85/db/e2/MEZP3EK_t.png" group-title="Canais | ESPORTES EM INGLÊS",Court Sports Network
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/a0/a4/MEZP3EY_t.png" group-title="Canais | ESPORTES EM INGLÊS",Motorsport TV
-https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/25/ee/41/MEZP3FT_t.png" group-title="Canais | ESPORTES EM INGLÊS",Distro - Sports TV Plus
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e8/1c/bb/MEZP3HK_t.png" group-title="Canais | ESPORTES EM INGLÊS",CampusLore Sports
-https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist_1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4b/9c/b0/MEZP3J3_t.png" group-title="Canais | ESPORTES EM INGLÊS",Surfer
-https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8b/31/20/MEZP3N5_t.png" group-title="Canais | ESPORTES EM INGLÊS",Horizons Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 
 ############################################################################ Canais | NOVELAS
 
