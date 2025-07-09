@@ -210,11 +210,8 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/53/dd/4b/MEZPZ04_t.png" group-title="Canais | FILMES",LIKE TV BR
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ac/12/6f/MEZQUER_t.png" group-title="Canais | FILMES",Europa+
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51/hi_mid.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7f/fb/61/MEVR5IJ_t.png" group-title="Canais | FILMES",Multi Canais
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fb/9c/70/MEZPVZV_t.png" group-title="Canais | FILMES",VGS TV
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
@@ -226,16 +223,13 @@ https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/chunklist_w87100838.m3u8
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/29/83/88/MEVR5IH_t.png" group-title="Canais | FILMES",FilmRise Séries Gratuitas
-https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=R9mMvhmH9vysFkmor1hb
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3c/bd/3f/MEVR5II_t.png" group-title="Canais | FILMES",REVIVA TV
-https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/05/3f/b7/MEVR5IL_t.png" group-title="Canais | FILMES",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/05/3f/b7/MEVR5IL_t.png" group-title="Canais | FILMES",TV ARACATI HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1829410932.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b0/ae/3d/MEVR5IK_t.png" group-title="Canais | FILMES",ADRENALINA FREE ZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
