@@ -2714,9 +2714,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8a/ad/7d/MEVNZTR_t.png" group-title="Canais | COMÉDIA",FailArmy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/89/3c/36/MEVNZTK_t.png" group-title="Canais | COMÉDIA",PORTA DOS FUNDOS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/de/78/MEVNZTU_t.png" group-title="Canais | COMÉDIA",The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -2724,12 +2721,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7f/9b/8d/MEVNVBD_t.png" group-title="Canais | KPOP",Kpop TV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/db/8b/ea/MEVNVBG_t.png" group-title="Canais | KPOP",The Kpop
-https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/db/8b/ea/MEVNVBG_t.png" group-title="Canais | KPOP",The Kpop 2
-https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/4c/e5/MEVNVBF_t.png" group-title="Canais | KPOP",New Kpop BR
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
@@ -3618,7 +3609,7 @@ https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/15/e9/b5/MEVRVW8_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO BLINK 102.7
 https://video08.logicahost.com.br/blinkvideo08/blinkvideo08/chunklist_w2090174935.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b7/b1/07/MEVRVWS_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Clube Fm 105,5
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b7/b1/07/MEVRVWS_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Clube Fm 105.5
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/00/ee/MEVRVWT_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO INTERATIVA 94.9 FM
@@ -3639,9 +3630,6 @@ https://live.cdn.upx.com/5e5c_4/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/00/b8/de/MEVRVWU_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO CLUBE FM 100.5 (RIBEIRÃO PRETO)
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/00/b8/de/MEVRVWU_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO CLUBE FM 100,5 FM
-https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8f/ba/3f/MEVRVWR_t.png" group-title="Canais | ESTUDIOS DE RADIO",Rede Metropolitana
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w1056578490.m3u8
 
@@ -3657,9 +3645,6 @@ https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/55/5d/MEVRVWV_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Planalto FM 105.9
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2116023340.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/55/5d/MEVRVWV_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO PLANALTO FM 105.9 HD
-https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/db/ed/39/MEVRVWN_t.png" group-title="Canais | ESTUDIOS DE RADIO",Gospel FM
 https://virtues.es:1936/gospel90/gospel90/chunklist_w1194472670.m3u8
 
@@ -3672,23 +3657,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/ac/a4/MEVRWMH_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO DIFUSORA FM 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/ac/a4/MEVRWMH_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO DIFUSORA FM
-https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3b/bb/df/MEVRWMK_t.png" group-title="Canais | ESTUDIOS DE RADIO",Radio Clube Araras 1460 AM
-https://virtues.es:1936/clubeararense/clubeararense/chunklist_w69239824.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/c0/6e/MEVRWMM_t.png" group-title="Canais | ESTUDIOS DE RADIO",WOCM Ocean 98.1 FM
 https://5790d294af2dc.streamlock.net/8258/8258/chunklist_w1379876665.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/82/1a/e4/MEVRWML_t.png" group-title="Canais | ESTUDIOS DE RADIO",RADIO MARUMBY
-https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w1612571741.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/82/1a/e4/MEVRWML_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO MARUMBY HD
-https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w368596073.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/ba/7c/MEVRWMG_t.png" group-title="Canais | ESTUDIOS DE RADIO",NOVOS HORIZONTES FM 104.7
-https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w207356910.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/41/54/54/MEVRWMI_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO VOZ MISSIONÁRIA
 https://tv01.zas.media:1936/vozmissionaria/vozmissionaria/chunklist_w353683795.m3u8
@@ -3699,14 +3669,8 @@ https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/bc/b2/MEVRWMF_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO TROPICAL TARAPOTO
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/5e/99/3d/MEVSBDW_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO REDENTOR
-https://virtues.es:1936/redentor/redentor/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/6c/64/MEVSBE8_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO Q MUSIC
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/56/de/MEVSBEA_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO POSITIVA 99.1
-https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w713204643.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/07/cb/7b/MEVSBED_t.png" group-title="Canais | ESTUDIOS DE RADIO",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w265505462.m3u8
@@ -3725,9 +3689,6 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/7e/67/MEVSBDY_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO FM LIBERDADE
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2f/cf/ee/MEVSBEG_t.png" group-title="Canais | ESTUDIOS DE RADIO",RADIO ITALIA TV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/93/3f/11/MEVSBEE_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO ESTÚDIO A FM 87.5
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w428511670.m3u8
@@ -3750,9 +3711,6 @@ https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8?token=10421204717
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/56/a0/40/MEVSCXP_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 95+ FM 
 https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1824512953.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/21/9d/b2/MEVSCXH_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 98.7 CLUBE FM
-https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w1532992125.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/60/eb/25/MEVSCXM_t.png" group-title="Canais | ESTUDIOS DE RADIO",RÁDIO 98 FM (CAMPO FORMOSO)
 https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
 
@@ -3773,20 +3731,8 @@ https://cdn1.str.srv.br/CM7002/CM7002/playlist.m3u8
 
 ############################################################################ Cameras | CAMERAS AO VIVO BRASIL
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Praia de Tramandaí
-https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1272354472.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Passo de Torres
-https://vid1.streaming.websul.net.br/live/ods-torres.stream/chunklist_w1702403354.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Praia de Imbe
-https://vid1.streaming.websul.net.br/live/ods-imb.stream/chunklist_w695745927.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Ponte Internacional da Amizade
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Cascavel Panoramica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Cascavel - Centro
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
@@ -3794,20 +3740,8 @@ https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.st
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Guaratuba - Praia Central
 https://video02.logicahost.com.br/portaldacidadegtba/praiacentrali.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Praia de Cidreira - RS
-https://5a2b083e9f360.streamlock.net/plataforma/plataforma.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Estádio Beira-Rio
 https://inst-pijqm-srs-fullhd.camerite.services/record/68312810-d63a-11e9-97ef-f9e998396b64.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Florianópolis - Praia dos Ingleses
-https://inst-y8ban-srs-sd.camerite.services/record/c7212ea0-a5ac-11ea-92ec-b71606b4ebf4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Ubatuba
-https://lon.rtsp.me/2caEp66Kp7MbBE5FqP7G4A/1739371583/hls/fRkr2aSy.m3u8?ip=177.125.189.231
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Pico do Gavião
-https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",Foz Do Iguaçu - Panorâmica
 https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/playlist.m3u8
@@ -3822,12 +3756,9 @@ https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/chunklist.m3u8
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 4
-https://cams.cdn-surfline.com/cdn-int/br-saquarema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 5
 https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 6
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO BRASIL",BRASIL 5
 https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
 
 ############################################################################ Cameras | CAMERAS AO VIVO NO MUNDO
@@ -3838,47 +3769,11 @@ https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w894134611.m
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Aquapark Tatralandia II - Eslovaquia
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w684479581.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Gino Paradise Besenova II - Eslovaquia
-https://stream.profi-net.sk/tmr/STREAM46.stream/chunklist_w719534533.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Playa Hermosa Costa Rica
-https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",SNIPTV RUSSIA
 http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",VK RUSSIA
-https://lifecam.sigma-ktv.ru/CTV_Rec/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",AFRICA 1
-https://cams.cdn-surfline.com/cdn-int/za-melkbosstrand/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",AFRICA 2
-https://cams.cdn-surfline.com/cdn-int/za-campsbay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",AUSTRIA 1
-https://streaming15.huberwebmedia.at/LiveApp/streams/784827628780861018745117.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",AUSTRIA 2
-https://streaming11.huberwebmedia.at/LiveApp/streams/197624825349370259602376.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CANADA
 http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CANADA 2
-https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-3_CWRC.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CANADA 3
-https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-2_CWRC.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CANADA 4
-https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-1_CWRC.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CHINA
-https://d3apr4o6dyu2wj.cloudfront.net/out/v1/5542084556434f93a52a80a27b0e3f8c/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",CHINA 2 PANDA
-https://gcwbndtxyhw.liveplay.myqcloud.com/gcwbnd/ipanda1000_2_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Czech - Jablunkov
 http://stream.silesnet.net/webcams/jablunkov.m3u8
@@ -3914,16 +3809,10 @@ https://kamery2.wolfnet.cz/bozi_vyhlidka2.m3u8
 http://31.47.96.14:80/hls/eroplan.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",FINLANDIA
-https://camsecure.co/HLS/vitaly.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",FINLANDIA 2
 https://torget.ostnyland.fi/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Binz
 http://cam01.binz-kabel.de/cam1/960.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Falken
-http://stream.falkenkamera.de:8080/stream.webm
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",Germany - Groemitz
 http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/playlist.m3u8
@@ -3949,20 +3838,11 @@ https://59d39900ebfb8.streamlock.net/Channels101/default.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Downtown 2
 https://59d39900ebfb8.streamlock.net/Channels301/default.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Falcon
-https://live.hdontap.com/hls/hosb1/f44-fisheye_utica.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Folly Beach
 https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Huntington Beach
-https://edge01.london.nginx.hdontap.com/hosb1/waterfront_swellmagnet.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Kure Beach
 https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Mackinac Island Hotel
-https://island.networkingdesign.com:8183/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Minnesota
 https://stream.resortcams.com/live/spiritmtn.stream/chunklist.m3u8
@@ -3975,9 +3855,6 @@ https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Myrtle Beach Cam 3
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Pineapple Willys Beach
-https://5ed7b8fd7bf40.streamlock.net:444/pwillys/pwillysbeachcam062923/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Yellowstone National Park - Geyser
 https://cs7.pixelcaster.com/nps/faithful.stream/playlist.m3u8
@@ -4000,32 +3877,17 @@ https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Ape Cam - San Diego Zoo
 https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Aspen Square Hotel
-https://2-fss-2.streamhoster.com/pl_126/200612-1195856-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Aspen Mountain
-https://2-fss-2.streamhoster.com/pl_126/200612-1195862-1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Holiday Inn Resort
 https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Yosemite National Park - Yosemite Falls
 https://cs9.pixelcaster.com/live/yosfalls.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Avila Beach Hotel
-https://cams.cdn-surfline.com/cdn-wc/wc-avilabeach/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Fort Lauderdale Beach
-https://s115.ipcamlive.com/streams/73whz5edhbsglev08/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Kauai - Hanalei Bay Resort
 https://edge01.ny.nginx.hdontap.com/hosb4/ngrp:hanaleibay_ecco.stream_all/chunklist_w1526325395_b5120000.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - St Pete Beach
 https://cs9.pixelcaster.com/live/stpete.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Panama City Beach
-https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/playlist.m3u8
 
 ############################################################################ Canais | PORTUGAL
 
