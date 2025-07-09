@@ -1,4 +1,4 @@
-#EXTM3U #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,awtv.cloudecast.com/playout/download_epg.php"  size="Medium"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,awtv.cloudecast.com/playout/download_epg.php"  size="Medium"
 
 ############################################################################ Canais | ABERTO
 
@@ -44,8 +44,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1327902141.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/37/84/26/MEVIIA3_t.png" group-title="Canais | ABERTO",BAND TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9e/c5/55/MEVIIZQ_t.png" group-title="Canais | ABERTO",REDE TV! MAIS UMUARAMA
-https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV! SÃO LUIS
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/39/MEVIIZR_t.png" group-title="Canais | ABERTO",REDE TV! PARANÁ
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
@@ -56,17 +56,11 @@ https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/redetv/aovivo_1080p/chunks.m
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/af/a2/d4/MEVIIZW_t.png" group-title="Canais | ABERTO",REDE TV! SUDOESTE
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/7f/b8/MEVIIZT_t.png" group-title="Canais | ABERTO",TV O Dia PI
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w2113723359.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fa/ad/94/MEVIIZS_t.png" group-title="Canais | ABERTO",TV Pampa RS
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/ef/47/MEVIIZV_t.png" group-title="Canais | ABERTO",REDE TV! NE GUARA CAXIAS
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/06/71/MEVIJ1G_t.png" group-title="Canais | ABERTO",TV CAIUÁ
-https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/63/06/8b/MEVIIZX_t.png" group-title="Canais | ABERTO",REDE TV! MT PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
@@ -84,31 +78,25 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist.m3u8
 https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w808464296.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a9/68/4d/MEVIJDE_t.png" group-title="Canais | ABERTO",TV ECOVALE
-https://cdnhd.iblups.com/hls/H6XW5YZMUV.m3u8
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/chunklist_w1656396537.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/02/0b/a4/MEVIJD7_t.png" group-title="Canais | ABERTO",BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/30/7f/5e/MEVIJFE_t.png" group-title="Canais | ABERTO",RF TV
-https://tv01.zas.media:1936/rftv/rftv/chunklist_w1356532092.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/30/7f/5e/MEVIJFE_t.png" group-title="Canais | ABERTO",RF TV HD
-https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8b/29/bd/MEVIJGI_t.png" group-title="Canais | ABERTO",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ca/26/3b/MEVILEE_t.png" group-title="Canais | ABERTO",TV Beltrão
-https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/50/ba/MEVILE6_t.png" group-title="Canais | ABERTO",TV RBA
 https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w678209403.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4f/c8/a5/MEVILEB_t.png" group-title="Canais | ABERTO",GUIA TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/40/1a/99/MEVILEF_t.png" group-title="Canais | ABERTO",STZ TV
-https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d4/f3/1c/MEVILEA_t.png" group-title="Canais | ABERTO",TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w1449212956.m3u8
@@ -119,17 +107,17 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA - TVC Araçatuba SP
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/a0/c2/MEVILEH_t.png" group-title="Canais | ABERTO",TV CULTURA (UNI TV SC)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/fe/ef/e6/MEVILE8_t.png" group-title="Canais | ABERTO",TV GAZETA - 40 Graus
+https://streaming.cloudecast.com/hls/40graus/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/55/04/60/MEVILE4_t.png" group-title="Canais | ABERTO",TV GUARA
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/a0/c2/MEVILEH_t.png" group-title="Canais | ABERTO",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/55/04/60/MEVILE4_t.png" group-title="Canais | ABERTO",TV GUARA Record News Maranhão
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ac/1a/b9/MEVILEG_t.png" group-title="Canais | ABERTO",CATVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ac/1a/b9/MEVILEG_t.png" group-title="Canais | ABERTO",CATVE HD
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w332300290.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f0/4a/d9/MEVILEC_t.png" group-title="Canais | ABERTO",TVC PANORAMA
 https://tv02.zas.media:1936/panorama/panorama/chunklist.m3u8
@@ -137,16 +125,10 @@ https://tv02.zas.media:1936/panorama/panorama/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d6/da/85/MEVILZZ_t.png" group-title="Canais | ABERTO",TV DIARIO DO BRASIL TV PREVE
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/96/e7/c6/MEVIM0B_t.png" group-title="Canais | ABERTO",TVE MS
-http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3f/51/cf/MEVIM2O_t.png" group-title="Canais | ABERTO",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c7/2e/53/MEWFFD8_t.png" group-title="Canais | ABERTO",TVE Bahia
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c7/2e/53/MEWFFD8_t.png" group-title="Canais | ABERTO",TVE Bahia - LINK 2
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/37/97/86/MEVIM07_t.png" group-title="Canais | ABERTO",TV Futuro
@@ -155,11 +137,14 @@ https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/44/65/MEZMRS4_t.png" group-title="Canais | ABERTO",BDC TV - (TV Á Crítica)
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="Canais | ABERTO",RTN - (TV Á Crítica)
+https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/74/0b/6a/MEVIM0C_t.png" group-title="Canais | ABERTO",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4a/b9/07/MEVIM09_t.png" group-title="Canais | ABERTO",TV Brasil Central
-https://tbc.zoeweb.tv:443/tbc/tbc/playlist.m3u8
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/25/31/MEVILZX_t.png" group-title="Canais | ABERTO",TV MEIO
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
@@ -170,14 +155,11 @@ http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/pl
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b4/d4/3e/MEVILZW_t.png" group-title="Canais | ABERTO",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/2f/30/MEVIM08_t.png" group-title="Canais | ABERTO",CENTRAL TV
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e9/2f/30/MEVIM08_t.png" group-title="Canais | ABERTO",RC TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1427810381.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/24/36/MEVILZV_t.png" group-title="Canais | ABERTO",VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w763666195.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/24/36/MEVILZV_t.png" group-title="Canais | ABERTO",VIVAX TV HD
-https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1253559912.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/be/55/d7/MEVIM0A_t.png" group-title="Canais | ABERTO",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -187,9 +169,6 @@ https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/09/cf/37/MEVIMFH_t.png" group-title="Canais | ABERTO",PLAY TV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/09/cf/37/MEVIMFH_t.png" group-title="Canais | ABERTO",PLAY TV HD
-https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/fb/db/MEVIMFG_t.png" group-title="Canais | ABERTO",TV NOVA NORDESTE
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
@@ -203,14 +182,8 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2b/4f/57/MEVIMFC_t.png" group-title="Canais | ABERTO",ASTRAL TV
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/25/fe/5c/MEVIMF6_t.png" group-title="Canais | ABERTO",REDE AMÉRICA TV
-https://stmv5.samcast.com.br/claudio6986/claudio6986/chunklist_w1529988747.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/65/dc/c4/MEVT81I_t.png" group-title="Canais | ABERTO",Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w120546675.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/c2/28/MEVIMFJ_t.png" group-title="Canais | ABERTO",TV Diário
-http://sonae.tel:80/254907118/u431A9523B/530124
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c7/92/a5/MEY87RK_t.png" group-title="Canais | ABERTO",UMATV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
@@ -223,11 +196,11 @@ http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/93/c5/MEWF93S_t.png" group-title="Canais | TV A CABO",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | TV A CABO",AMC
-http://xc.tvdecasa.top:80/live/Formigatv/266585/8797.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | TV A CABO",AMC The Walking Dead
+https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/46/f5/MEZQQAL_t.png" group-title="Canais | TV A CABO",Receita Fast
-https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 ############################################################################ Canais | FILMES
 
@@ -2189,8 +2162,8 @@ https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isa
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/27/0a/f9/MEVL2OA_t.png" group-title="Canais | NOVELAS",Os Dez Mandamentos
 https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/d9/16/MEVL2O7_t.png" group-title="Canais | NOVELAS",Malhação
-https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/d9/16/MEVL2O7_t.png" group-title="Canais | NOVELAS",Malhação Fast
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6d/50/0b/MEVL2O3_t.png" group-title="Canais | NOVELAS",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
