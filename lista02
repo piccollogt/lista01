@@ -196,9 +196,6 @@ http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/93/c5/MEWF93S_t.png" group-title="Canais | TV A CABO",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | TV A CABO",AMC The Walking Dead
-https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b1/46/f5/MEZQQAL_t.png" group-title="Canais | TV A CABO",Receita Fast
 https://live-as-11-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTEtMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUyMTE5NTY0LCJpYXQiOjE3NTIwMzMxNjQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0zMTM5ODQpL2dudGZhc3QyNGhhL3BsYXlsaXN0Lm0zdTgifQ.OyaV83pXfxe8aGQ82-ijFJT4YR7u7_YY51g36RfcjVpKWSW-LyQxDJCJo318-SCzuWwvQA2VLXKXVv9bzS1pnZJRSGWZN-0XJQsWPE-83aGkveZ48uyzSUPLf41P7HQEPJ0R20OX0ik8eIAuJ89Gy2lgopz_PaCqU__HQDW6kzNeHYd7DYtL9wXPzn3Ig6zDuxVcMV9fdXcmFLRygqZzVXPpmVa2Yj2lALf_ZkSqPPfO8YMKrXEurSCeU0Unblay2UCYr6m8yCvOEjAJKlQsV21IYcJeq5Id45F3Hbg5w6HJmOyqTCNh9RndErvKpohyXYNQzZ5BNO2XRNoT1SjDYQ/live/f(bMin=313984)/gntfast24ha/playlist.m3u8?originpath=/linear/hls/pa/event/Wmng55atSh-3bEYkvkRuBg/stream/d16e3fd9-39d3-477d-8cd9-43e5230aac5f:SCL/variant/3f0f03e898105254a688fef0bfe6a1c6/bandwidth/2859000.m3u8
 
@@ -1916,20 +1913,8 @@ http://200.194.238.229:8383/live/otaku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/60/19/MEZQU7V_t.png" group-title="Canais | CANAIS DE ANIME",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI BR 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/68/e5/c4/MEVNVK9_t.png" group-title="Canais | CANAIS DE ANIME",ANIME ONEGAI ESPANHOL
+https://d2se29pyn6ypkx.cloudfront.net/v1/manifest/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6c4c2821-5854-4f49-85be-860c041d1b67/3.m3u8
 
 ############################################################################ Canais | ANIMES 24 HORAS
 
@@ -1977,13 +1962,10 @@ http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
 ############################################################################ Canais | SÉRIES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/ff/07/MEVLPX9_t.png" group-title="Canais | SÉRIES",SÉRIES CLASSIC
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1497418597.m3u8
+https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/8d/57/MEVLPX5_t.png" group-title="Canais | SÉRIES",ZORRO 01
-http://cdn22.cc:80/Gmbertoli/bertoli20/228487.ts
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/8d/57/MEVLPX5_t.png" group-title="Canais | SÉRIES",ZORRO 02
-http://cdn22.cc:80/Gmbertoli/bertoli20/228488.ts
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/19/7c/12/MEVQNMP_t.png" group-title="Canais | SÉRIES",The Walking Dead by AMC
+https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/27/e8/0d/MEZQP8M_t.png" group-title="Canais | SÉRIES",Z NATION
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b3af48d2d50d00083d6936/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -2036,6 +2018,33 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/90/2d/2e/MEVLPX1_t.png" group-title="Canais | SÉRIES",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6d738376d63207eacd6a71322895a60.webp" group-title="Canais | SÉRIES",CHAVES
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cancelled-movies/images/7/73/Chapul%C3%ADn_colorado_logo.png/revision/latest?cb=20210406161737" group-title="Canais | SÉRIES",CHAPOLIN
+http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="Canais | SÉRIES",UM MALUCO NO PEDAÇO
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/97/My_Wife_and_Kids_cartaz.jpg/250px-My_Wife_and_Kids_cartaz.jpg" group-title="Canais | SÉRIES",EU A PATROA E AS CRIANÇAS
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Gangnam_Beauty_Drama_logo.png" group-title="Canais | SÉRIES",Minha Identidade e Beleza de Gangnam
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | SÉRIES",RBTI
+https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/62/2d/e0/MEVLPX0_t.png" group-title="Canais | SÉRIES",RBTI 2
+https://nxplay-images.comets.com.br/resize/66def2a4b60b6_95dba3a2215931a5e0b3490cd842bd98.png
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Canais | SÉRIES",FREE TV CRIME
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="Canais | SÉRIES",FREE TV DRAMA
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+
 ############################################################################ Canais | MTV
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/11/87/MEVN74D_t.png" group-title="Canais | MTV",MTV Com o Ex
@@ -2073,12 +2082,6 @@ https://nosey-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/27/2e/99/MEVNTRY_t.png" group-title="Canais | SAMSUNG TV",Hollywire
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b0/27/ae/MEVNTRL_t.png" group-title="Canais | SAMSUNG TV",Fashion TV International
-https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e8/5e/af/MEVNTRV_t.png" group-title="Canais | SAMSUNG TV",Receitas
-https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ad/8f/ba/MEVNTRP_t.png" group-title="Canais | SAMSUNG TV",Tastemade
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
@@ -2092,19 +2095,16 @@ https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u
 https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f6/8e/f0/MEVNTRR_t.png" group-title="Canais | SAMSUNG TV",D.P.A
-https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/16/6b/ef/MEVNTS3_t.png" group-title="Canais | SAMSUNG TV",GeFast
-https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4d/69/3e/MEVNUIS_t.png" group-title="Canais | SAMSUNG TV",Fuel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/35/db/bb/MEVNUJ2_t.png" group-title="Canais | SAMSUNG TV",Hard Knocks Fight Championship
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_hardknocks_002.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/0e/34/MEVNUIY_t.png" group-title="Canais | SAMSUNG TV",MAV TV em Portugues
-https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/0e/34/MEVNUIY_t.png" group-title="Canais | SAMSUNG TV",Mav TV Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
@@ -2115,23 +2115,14 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6e/77/65/MEVNUIO_t.png" group-title="Canais | SAMSUNG TV",World Poker Tour em Portuguese
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/466.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6e/77/65/MEVNUIO_t.png" group-title="Canais | SAMSUNG TV",World Poker Tour - Global version
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6654
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d0/13/dc/MEVNUIN_t.png" group-title="Canais | SAMSUNG TV",Qwest TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/39/b1/7f/MEVNUIV_t.png" group-title="Canais | SAMSUNG TV",Stingray Classica
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_stingrayclassica_002.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2c/c7/58/MEVNUIX_t.png" group-title="Canais | SAMSUNG TV",Just for Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f0/8b/87/MEVNUIR_t.png" group-title="Canais | SAMSUNG TV",Smithsonian Channel
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1d/ab/24/MEVNUJ0_t.png" group-title="Canais | SAMSUNG TV",Dark Matter TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e1/ac/8b/MEVNUJ4_t.png" group-title="Canais | SAMSUNG TV",Cindie Lite Portuguese
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
