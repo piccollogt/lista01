@@ -231,26 +231,11 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/05/3f/b7/MEVR5IL_t.png" group-title="Canais | FILMES",TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b0/ae/3d/MEVR5IK_t.png" group-title="Canais | FILMES",ADRENALINA FREE ZONE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/60/6a/f0/MEVR5I2_t.png" group-title="Canais | FILMES",TV JAPI
-https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/60/6a/f0/MEVR5I2_t.png" group-title="Canais | FILMES",TV JAPI HD
-https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w1582800587.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8d/df/d2/MEVR5IO_t.png" group-title="Canais | FILMES",REDE NGT
 https://isaocorp.cloudecast.com/ngt/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8d/df/d2/MEVR5IO_t.png" group-title="Canais | FILMES",REDE NGT HD
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/de/74/MEVR5I6_t.png" group-title="Canais | FILMES",REDE CLOUDING TV
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/de/74/MEVR5I6_t.png" group-title="Canais | FILMES",REDE CLOUDING TV HD
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1552685294.m3u8
+https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/30/76/ef/MEVR5I5_t.png" group-title="Canais | FILMES",Up Webtv
 https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w111105915.m3u8
@@ -282,9 +267,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/66/0a/29/MEVR68D_t.png" group-title="Canais | FILMES",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w744484933.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/36/f8/32/MEVR68N_t.png" group-title="Canais | FILMES",TV 100
-https://alanza.iptv2022.com/TV_100/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4b/c5/6d/MEVR68B_t.png" group-title="Canais | FILMES",TV CHANNEL NETWORK
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
@@ -300,17 +282,11 @@ https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/fd/3e/MEVR688_t.png" group-title="Canais | FILMES",NOVA RIO TV
 https://video04.logicahost.com.br/novariotv/novariotv/chunklist_w1321346524.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/54/fd/3e/MEVR688_t.png" group-title="Canais | FILMES",NOVA RIO TV HD
-https://video04.logicahost.com.br/novariotv/novariotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/37/a5/cd/MEVR68F_t.png" group-title="Canais | FILMES",HTO Filmes
-https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/50/12/1b/MEVR68L_t.png" group-title="Canais | FILMES",Moviesphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f2/ae/2c/MEVRB34_t.png" group-title="Canais | FILMES",Spark TV
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/79/f0/3c/MEVRB2P_t.png" group-title="Canais | FILMES",TV DIFUSÃO
 https://tvd.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/chunklist_w1023033521.m3u8
@@ -319,25 +295,13 @@ https://tvd.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/chunklist_w1023033521
 https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/2a/d2/MEVRB3G_t.png" group-title="Canais | FILMES",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/2a/d2/MEVRB3G_t.png" group-title="Canais | FILMES",GLN TV HD
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1132047774.m3u8
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/65/7e/66/MEVRB2Z_t.png" group-title="Canais | FILMES",TV SONATA
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b5/c3/3c/MEVRB2S_t.png" group-title="Canais | FILMES",TV MAIS BRASIL
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b5/c3/3c/MEVRB2S_t.png" group-title="Canais | FILMES",TV MAIS BRASIL HD
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w4340274.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2c/8e/6c/MEVRB3E_t.png" group-title="Canais | FILMES",VILA TV
-https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w667005072.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2c/8e/6c/MEVRB3E_t.png" group-title="Canais | FILMES",VILA TV HD
-https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1971453597.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/17/d7/MEVRB3I_t.png" group-title="Canais | FILMES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/chunklist.m3u8
