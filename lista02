@@ -4030,32 +4030,6 @@ https://cs9.pixelcaster.com/live/stpete.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/a5/81/MEVW9F9_t.png" group-title="Cameras | CAMERAS AO VIVO NO MUNDO",USA - Panama City Beach
 https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/playlist.m3u8
 
-############################################################################ CANAIS ADULTOS
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/37/7f/MEVRSD8_t.png" group-title="Canais | CANAIS ADULTOS",Visit-X TV
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/ad/8a/MEVRSD4_t.png" group-title="Canais | CANAIS ADULTOS",OLALA EU
-https://live.iptvxxx.net/olala.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
-http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w283384006_b1896000.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
-http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal
-http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
-
 ############################################################################ Canais | ALEMANHA
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/59/b8/f5/MEVJ1KR_t.png" group-title="Canais | ALEMANHA",DW - America
@@ -9304,3 +9278,29 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/17/12/5a/MEW7Z9X_t.png" group-title="Canais | INDIA",Zee Tamil
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+
+############################################################################ CANAIS ADULTOS
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/37/7f/MEVRSD8_t.png" group-title="Canais | CANAIS ADULTOS",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/3a/ad/8a/MEVRSD4_t.png" group-title="Canais | CANAIS ADULTOS",OLALA EU
+https://live.iptvxxx.net/olala.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/93/3a/MEVRSD1_t.png" group-title="Canais | CANAIS ADULTOS",PLAYBOY TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/58/f4/MEWIKWG_t.png" group-title="Canais | CANAIS ADULTOS",Blacked
+http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/de/62/de/MEVRSXM_t.png" group-title="Canais | CANAIS ADULTOS",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:VIVALIVE/chunklist_w283384006_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/69/6f/16/MEVRSD2_t.png" group-title="Canais | CANAIS ADULTOS",Europulse
+http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/e2/b7/MEWIKGM_t.png" group-title="Canais | CANAIS ADULTOS",Barely Legal
+http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
