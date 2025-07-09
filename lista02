@@ -1712,7 +1712,7 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/10/97/MEVKYHF_t.png" group-title="Canais | ESPORTES",FUEL TV
 https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/cb543d187c6c678b9ad43e6ecef042a9f9581fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c062017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fde05546de3fa0b70140942910fa83439c8201ea83d65e83458420a5129bc3f88b854483e4255293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f2bed372ef658ba6aa604a6f34bb3efceb7aea796c5b6395102da8f908fe93b32b064eea1e6971416fca3412d13993f9c4a5f49e23816b5f3e55436cfebb21e3bb989e1310ff5bcbf86fdb98e4bd317cfc4fd9e387882026e0cab52b89361d728922de69e53696b444aa99542d7c6f76a703401d5db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b82af4cf9236c1752f3c12d59445e749fbb355a7e2a953791b9a1d67e0704e3e0debe981d69755f39664cddacb40ad8e4a60e1219c65f231a04331f840bdb6c9f4d093727c71adcbb1a36e222243eedb3304d500fc79ee099e636abc800e604a9d598e2e86535d44272557b04b6fa9f3d/161/1920x1080_4716800/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/ec/11/MEVKYI0_t.png" group-title="Canais | ESPORTES",Cazé TV
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/44/ec/11/MEVKYI0_t.png" group-title="ESPORTES", CAZÉ TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2b/63/5b/MEVKYI7_t.png" group-title="Canais | ESPORTES",RACING AMERICA
@@ -1745,7 +1745,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8f/bf/8d/MEVKZ6X_t.png" group-title="Canais | ESPORTES",HKF CHAMPION
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/27/6c/MEVKZ78_t.png" group-title="Canais | ESPORTES",DEPORTES
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/27/6c/MEVKZ78_t.png" group-title="ESPORTES", DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9c/2e/d6/MEZP2TT_t.png" group-title="Canais | ESPORTES",UNIQUE SPORTS 1
@@ -1760,16 +1760,7 @@ https://pop.uniquetv.com.br/uniquesports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e7/c3/f4/MEZP2WJ_t.png" group-title="Canais | ESPORTES",AUTO TV
 https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/8c/68/24/MEVKZ73_t.png" group-title="Canais | ESPORTES",LUCHA LIBRE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 ############################################################################ Canais | NOVELAS
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d1/94/ae/MEVL2OD_t.png" group-title="Canais | NOVELAS",A Escrava Isaura
-https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/27/0a/f9/MEVL2OA_t.png" group-title="Canais | NOVELAS",Os Dez Mandamentos
-https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2a/d9/16/MEVL2O7_t.png" group-title="Canais | NOVELAS",Malhação Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
@@ -1795,20 +1786,11 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/52/ce/cf/MEWBXQ6_t.png" group-title="Canais | NOVELAS",SOMOS NOVELAS
 https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://thumbs4.imagebam.com/1a/6a/da/MEVL2OF_t.png" group-title="Canais | NOVELAS", TV Novelas Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
-
-#EXTINF:-1  tvg-logo="https://thumbs4.imagebam.com/20/06/f5/MEVL2O6_t.png" group-title="Canais | NOVELAS",TV Novelas Romance
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-
 #EXTINF:-1  tvg-logo="https://thumbs4.imagebam.com/a4/67/09/MEVL2O9_t.png" group-title="Canais | NOVELAS",TV Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
 #EXTINF:-1  tvg-logo="https://thumbs4.imagebam.com/9d/83/55/MEZP3QM_t.png" group-title="Canais | NOVELAS",Todo Novelas
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://thumbs4.imagebam.com/c9/53/6f/MEZP3R7_t.png" group-title="Canais | NOVELAS",NOVELAS INOLVIDABLES
-https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 
 ############################################################################ Canais | INFANTIL
 
