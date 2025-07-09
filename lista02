@@ -2,6 +2,9 @@
 
 ############################################################################ Canais | ABERTO
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT
+https://aovivo.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8?ads.start=1&ads.w=1365&ads.h=911&ads.cb=1752033963536&ads.ip=189.62.149.223&ads.ua=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/138.0.0.0%20Safari/537.36&ads.lat=&ads.lon=&ads.dnt=&ads.ic=&ads.ap=1&ads.app_bundle=&ads.app_name=%252Bsbt&ads.app_store_url=&ads.inv_partner_domain=sbt.com.br&ads.mute=0&ads.placement=1&ads.content_id=&ads.content_episode=&ads.content_title=The%20Noite%20com%20Danilo%20Gentili&ads.content_series=&ads.content_season=&ads.content_genre=variedade&ads.content_livestream=1&ads.content_producer_name=SBT&ads.content_categories=variedade&ads.content_keywords=&ads.rating=PG&ads.language=pt-br&ads.network_name=sbt&ads.did=1784151228214549&ads.device_make=Chrome%2520138.0&ads.device_model=desktop&ads.brand_name=&ads.country=BR&ads.ifa_type=dpid&ads.content_custom_1_param=uat-1.16.6&ads.content_custom_2_param=Web&ads.content_custom_3_param=2025-07-09T04:06:03.536Z
+
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png" group-title="Canais | ABERTO",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 
@@ -17,7 +20,7 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20140404224338" group-title="Canais | ABERTO", GLOBO
 https://live-as-08-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUyMTE5ODQyLCJpYXQiOjE3NTIwMzM0NDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMWU3MmFjZWUtOTk3OC00MDllLWJhZmMtZmZiNDZhNWI1ZTljIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.DqFuW3EvackUa-NNX7VnPHm0JuEEiDe3ZuHt1Kjszc0TsA_vCYK7dl5jxKrg6Md4LFQbLE1vKRbsLYoSo3Ow5U4ZG0m-UMXGGKy1ZciZw_IgI84CH32A44ADsi6tVAwElWNdRxNWwDxnW7VY_mUngzy5MWvGKQvR3EM2koMLPPr_4ZIC3qxTZhQkAk21QUlc5UYKEQPizo4ICR4-xP76E8NgU5hjJ5XUwha2auSwGBxE0P2uOzdPM2NVi7Dn0rHTEMtL07W_j1j_iIk-KIGTzNzvV-9PowMCTIf6SbWe3TbI6XmKkPCXxHCIyrxVNjwra51rhosQ9q1nns_IJN7c9g/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/0luDAFhxS7CCbGH8q01QIg/stream/75e5bd87-5062-44e5-822b-52ae0d301d34:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
