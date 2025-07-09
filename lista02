@@ -2321,12 +2321,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656f389c3
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/63/cf/MEWCA2R_t.png" group-title="Canais | ANIMES 24 HORAS",HUNTER X HUNTER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/63/cf/MEWCA2R_t.png" group-title="Canais | ANIMES 24 HORAS",HUNTER X HUNTER - LINK 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/97/63/cf/MEWCA2R_t.png" group-title="Canais | ANIMES 24 HORAS",HUNTER X HUNTER - LINK 3
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bf/92/05/MEVW39E_t.png" group-title="Canais | ANIMES 24 HORAS",Captain Tsubasa
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -2342,171 +2336,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/df/58/bd/MEVW39Q_t.png" group-title="Canais | ANIMES 24 HORAS",YU-GI-OH!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1f/15/8e/MEZPXVO_t.png" group-title="Canais | ANIMES 24 HORAS",ONE PUNCH MAN
-http://cdn.srvmain.top:80/tvjetlider/tvjet9454/6445905.m3u8
-
-############################################################################ Animes | Filmes de Animes
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69ZBcaA.jpeg" group-title="Animes | Filmes de Animes",Pokémon O Filme : Eu Escolho Você!
-https://dc699.4shared.com/img/SMyb_qvRda/20dcad54/dlink__2Fdownload_2FSMyb_5FqvRda_3Fsbsr_3D8a0329ede5a036f66af0dd983656e7ffb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.4acd6a45db748111d0bebd9c55ce3a9d_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lWZEGQf.png" group-title="Animes | Filmes de Animes",Yu-Gi-Oh! O Filme - Pirâmide de Luz
-https://dc588.4shared.com/img/6xBxetjMiq/6cde9894/dlink__2Fdownload_2F6xBxetjMiq_3Fsbsr_3D6c5ae37467b9ab4543e537c92ebc0feeb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.d06b81c5fbc4a5074f92d762218d6e21_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qPnO4pZ.png" group-title="Animes | Filmes de Animes",Yu-Gi-Oh! O Filme - O Lado Negro Das Dimensões
-https://dc588.4shared.com/img/Tg3C81kuiq/a1b450ad/dlink__2Fdownload_2FTg3C81kuiq_3Fsbsr_3D6095a3c342b44ae0043459149630973ab3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.32e73d27c6211788444b9c9f206d8ae6_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g6gQVOh.jpeg" group-title="Animes | Filmes de Animes",Miyori e a Floresta Mágica - O Filme
-https://dc717.4shared.com/img/FK-vrA6Fjq/1efc7fa6/d
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g6gQVOh.jpeg" group-title="Animes | Filmes de Animes",Miyori e a Floresta Mágica - O Filme
-https://dc717.4shared.com/img/FK-vrA6Fjq/1efc7fa6/dlink__2Fdownload_2FFK-vrA6Fjq_3Fsbsr_3D81e5422ed02468ca7287aa3a3bc34102b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.ba3d77fa06a2f095b44e87c166678c45_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BR3JJHA.png" group-title="Animes | Filmes de Animes",Fatal Fury 1 - A Lenda do Lobo Faminto
-https://dc586.4shared.com/img/XBBybUXyca/d64c631b/dlink__2Fdownload_2FXBBybUXyca_3Fsbsr_3D0a4a264d24b1ffe31579733d912ae9b2b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.9f427a11206600678f36a99f9fcebf49_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwE6uYs.png" group-title="Animes | Filmes de Animes",Fatal Fury 2 - O Desafio de Krauser
-https://dc533.4shared.com/img/fBq_iARAca/a4356ab6/dlink__2Fdownload_2FfBq_5FiARAca_3Fsbsr_3D5a4016dad4c0d3fa5071473cc9993d93b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.6bb7529e5b181871aa912c0890e58f9b_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NiuI7PJ.png" group-title="Animes | Filmes de Animes",Fatal Fury 3 - A Fúria
-https://dc687.4shared.com/img/Wfn0wcaEei/e2ca7800/dlink__2Fdownload_2FWfn0wcaEei_3Fsbsr_3D7c322f75e31df98ae19f8e43e3159beeb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.72400a57a38d16bfa721e1cdbc028c12_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AXdfOT.jpeg" group-title="Animes | Filmes de Animes",Cowboy Bebop - O Filme
-https://www.googleapis.com/drive/v3/files/0B64bZFdxnOPtWkFNTjFQMTZ0eDQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AXdfOT.jpeg" group-title="Animes | Filmes de Animes",Cowboy Bebop - O Filme - LINK 2
-https://dc722.4shared.com/img/2X-ys7obiq/306d04ee/dlink__2Fdownload_2F2X-ys7obiq_3Fsbsr_3D87ffa2136e2b97779269ef80e4f42604b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.c1b5a11178893565a9720913173bf711_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mHVl7eK.png" group-title="Animes | Filmes de Animes",DBZ Filme 1 - Devolva-me Gohan!
-https://dc775.4shared.com/img/nLoon_kNei/f28b9caf/dlink__2Fdownload_2FnLoon_5FkNei_3Fsbsr_3D2eafe9bc88e98b46f2a6013063f156ccb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.5d0263c96a4822d00e143f832fef9eff_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1gXLrE0.png" group-title="Animes | Filmes de Animes",DBZ Filme 2 - O Homem Mais Forte do Mundo
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNydkFfNUFScktWUVU?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1gXLrE0.png" group-title="Animes | Filmes de Animes",DBZ Filme 2 - O Homem Mais Forte do Mundo - LINK 2
-https://dc775.4shared.com/img/ufaR2gsHca/ea858521/dlink__2Fdownload_2FufaR2gsHca_3Fsbsr_3Dc986686b765f6419b791593ddb884669b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.06b971def626421de18db668020d232f_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyek53E.png" group-title="Animes | Filmes de Animes",DBZ Filme 3 - A Árvore do Pode
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyeFNjUkFUX1Yzelk?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyek53E.png" group-title="Animes | Filmes de Animes",DBZ Filme 3 - A Árvore do Pode - LINK 2
-https://dc775.4shared.com/img/dMcQWOX_ca/4f3dff1a/dlink__2Fdownload_2FdMcQWOX_5Fca_3Fsbsr_3D77be56c52bcec7a5296b3f34fbb28c0fb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.b7524c02f57b1a202d11164a85d4fe80_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZB0TMwg.png" group-title="Animes | Filmes de Animes",DBZ Filme 4 - Goku o Super Sayajin
-https://dc775.4shared.com/img/ARFTnqc3ca/3549dc24/dlink__2Fdownload_2FARFTnqc3ca_3Fsbsr_3Ded2dc61d38cec42533a8504a6103d0c5b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.91d7c1964905d16f5461605d9e6efa0e_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6onMB9.jpeg" group-title="Animes | Filmes de Animes",DBZ Filme 5 - Uma vinganca para Freeza
-https://dc721.4shared.com/img/FDyTTLapei/be873c09/dlink__2Fdownload_2FFDyTTLapei_3Fsbsr_3Dffa24539419f01bf47d7ce98b9009a1db3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.ff3479946db9f50e739b5e25afd4268c_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3adOZ8g.png" group-title="Animes | Filmes de Animes",DBZ Filme 6 - O Retorno de Cooler
-https://dc354.4shared.com/img/0G0kr6hyca/ec30607e/dlink__2Fdownload_2F0G0kr6hyca_3Fsbsr_3De518da6b24ac1bcfd02806bbae1b04b2b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.74e4bd8c7c55463ca2ff48b82606e66d_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AkXGpYu.png" group-title="Animes | Filmes de Animes",DBZ Filme 7 - O Retorno dos Andróides
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyTUJvNEFaZkhJaEE?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AkXGpYu.png" group-title="Animes | Filmes de Animes",DBZ Filme 7 - O Retorno dos Andróides - LINK 2
-https://dc610.4shared.com/img/PiLJOC-9ca/d298f7e7/dlink__2Fdownload_2FPiLJOC-9ca_3Fsbsr_3Db399d139cdefbf862e542a44adee163bb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.4f1aea0c48ab34362532b2c608462a96_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBvLthz.png" group-title="Animes | Filmes de Animes",DBZ Filme 8 - Broly. O Lendário Super Saiyajin
-https://dc588.4shared.com/img/SmUXExrRei/bd72ad15/dlink__2Fdownload_2FSmUXExrRei_3Fsbsr_3Dea0b6ecff8bfe9305b79c079ae71b53bb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.89d07d501ec6eafab29404894d38939b_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8UYNlLC.png" group-title="Animes | Filmes de Animes",DBZ Filme 9 - A Batalha nos Dois Mundos
-https://dc775.4shared.com/img/0D8CYkBGca/b7d981b2/dlink__2Fdownload_2F0D8CYkBGca_3Fsbsr_3D4f817b57c69e3071c0931f78a053b5bcb3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.a635be1d3c5f61c9ca01d866108ac5c0_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U5bQpYO.png" group-title="Animes | Filmes de Animes",DBZ Filme 10 - Broly. O Retorno do Guerreiro Lendário
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyUWlDcEgwLUZUTFU?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U5bQpYO.png" group-title="Animes | Filmes de Animes",DBZ Filme 10 - Broly. O Retorno do Guerreiro Lendário - LINK 2
-https://dc702.4shared.com/img/UYpUq--xca/48a45fef/dlink__2Fdownload_2FUYpUq--xca_3Fsbsr_3D4a7048f5336adb8eb07feec6cbd00594b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.009eb406f4a6a87a06d9c2eff397a8a2_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JwttjQV.png" group-title="Animes | Filmes de Animes",DBZ Filme 11 - O Combate Final. Bio-Broly
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyUGFkQ3ZXS0gwc2M?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JwttjQV.png" group-title="Animes | Filmes de Animes",DBZ Filme 11 - O Combate Final. Bio-Broly - LINK 2
-https://dc702.4shared.com/img/jvXjdMFuca/68151f9/dlink__2Fdownload_2FjvXjdMFuca_3Fsbsr_3D2601d617ccf2e4d5b15e3286089bb4c9b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.5c534006081304dcc1d1996acad76c63_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLdEOBI.png" group-title="Animes | Filmes de Animes",DBZ Filme 12 - Uma Nova Fusão
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyQlIxd3Z1Z29OTGM?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLdEOBI.png" group-title="Animes | Filmes de Animes",DBZ Filme 12 - Uma Nova Fusão - LINK 2
-https://dc700.4shared.com/img/zeZ_U_mVei/c1e7bccf/dlink__2Fdownload_2FzeZ_5FU_5FmVei_3Fsbsr_3De773e8932731b20b6445cf9a54682932b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.0f0dd250e36fe10d83c4e3d51b9a66b4_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ha4zr52.png" group-title="Animes | Filmes de Animes",DBZ Filme 13 - O Ataque do Dragão 
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyekNXMHFadG1IcDA?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ha4zr52.png" group-title="Animes | Filmes de Animes",DBZ Filme 13 - O Ataque do Dragão - LINK 2
-https://dc717.4shared.com/img/5mIHloSwca/d6355ac3/dlink__2Fdownload_2F5mIHloSwca_3Fsbsr_3De4acf0f57e840151613740337461a0f1b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.94e56d0aff57188ce4c3dbd38ffed923_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3UZpn3.png" group-title="Animes | Filmes de Animes",DBZ Filme 14 - A Batalha dos Deuses
-https://dc686.4shared.com/img/hyVmEocsca/dbe94823/dlink__2Fdownload_2FhyVmEocsca_3Fsbsr_3D630b8124355c10f94a738a7cfdd0ea29b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.bfcf571d66c40e5e23936e6f8c70d3ff_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qvYVYc.png" group-title="Animes | Filmes de Animes",DBZ Ova 1 - Bardock. O Pai de Goku
-https://dc743.4shared.com/img/5CWin5fhei/6f961c5e/dlink__2Fdownload_2F5CWin5fhei_3Fsbsr_3Da6bdd95a5cf83069b7fef7193f0464aab3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.4ff43cb4883662377390013597cd90af_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpmF5Q8.png" group-title="Animes | Filmes de Animes",DBZ Ova 2 - Gohan e Trunks. Os Guerreiros do Futuro
-https://dc743.4shared.com/img/TFd64PYrei/5f07472a/dlink__2Fdownload_2FTFd64PYrei_3Fsbsr_3Da783477e25568b2de335cc98491b1f66b3d_26bip_3DMTY3LjI1MC4xOC4xMjk_26lgfp_3D20_26dsid_3D233csz-9.3062877b485b1406a0f48573b2fb24d2_26bip_3DMTY3LjI1MC4xOC4xMjk_26bip_3DMTY3LjI1MC4xOC4xMjk/preview.mp4?cuid=1529185608&cupa=20f2d20bae829a69f1fd0e8898a86b19
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrfMmsh.jpeg" group-title="Animes | Filmes de Animes",DBZ Especial - A batalhas de Freeza Contra O Pai de Goku
-https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyVjc3cXlDMUxCZ1E?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFqwDQT.jpeg" group-title="Animes | Filmes de Animes",Naruto Clássico: Filme 1 - Legendado
-https://www.googleapis.com/drive/v3/files/1-J4dmB8FjytWf-JdrMUQAdIw99oaH0cj?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zMfYNh.jpeg" group-title="Animes | Filmes de Animes",Naruto Clássico: Filme 2 - Legendado
-https://www.googleapis.com/drive/v3/files/10jHg7kMVmn4FfYKN4ioHCndaBpyj0mYh?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9S4r2ft.png" group-title="Animes | Filmes de Animes",Naruto Clássico: Filme 3 - Legendado
-https://www.googleapis.com/drive/v3/files/1-QQ5S_dvIfmvqX76huhhcIi9tcbU-qdm?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cAqnMva.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 1 - Legendado
-https://www.googleapis.com/drive/v3/files/1-_QHvOmu92wKS49rXlaxTx0IF56-_Vei?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KMJ3ttx.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 2 - Legendado
-https://www.googleapis.com/drive/v3/files/1-cUWryltJSsKTZ50KIlxlRxtXrVfc7Wb?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sB9pX2N.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 3 - Legendado
-https://www.googleapis.com/drive/v3/files/1-pRPxw9FRt9D_mx77YBqpcxoloTuKPFq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQuE6qn.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 4 - Legendado
-https://www.googleapis.com/drive/v3/files/1-uRHmcdmCDFB_Ts2CWR4d6cv1lyR-PqS?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DqxNpll.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 5 - Legendado
-https://www.googleapis.com/drive/v3/files/1-vwwytWGoFBni8z3NCaVC7kD_NNIcUMG?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDI9nNb.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 6 - Legendado
-https://www.googleapis.com/drive/v3/files/1-xhMmGUnGM1tHpEK8KSQnRyKiMHCAWWD?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bS2bGs.jpeg" group-title="Animes | Filmes de Animes",Naruto Shippuuden: Filme 7 - Legendado
-https://www.googleapis.com/drive/v3/files/103bNvw9pCizEt1mNcZXVUOwFJXYX4Wwb?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-
 ############################################################################ Canais | TOKUSATSU
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/7f/a5/MEVN67J_t.png" group-title="Canais | TOKUSATSU",Tokusato
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/bc/e8/aa/MEZPY83_t.png" group-title="Canais | TOKUSATSU",SATO +
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1b/8f/08/MEVN67I_t.png" group-title="Canais | TOKUSATSU",BLACK KAMEN RIDER
-http://lscliente.xyz:80/genivaldobarreto/genivaldo07/606963
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/18/19/cc/MEVN67N_t.png" group-title="Canais | TOKUSATSU",CHANGEMAN
-http://lscliente.xyz:80/genivaldobarreto/genivaldo07/469849
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1c/c7/05/MEZPYCC_t.png" group-title="Canais | TOKUSATSU",CYBERCOPS
-http://lscliente.xyz:80/genivaldobarreto/genivaldo07/469857
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/dc/90/17/MEWBYG3_t.png" group-title="Canais | TOKUSATSU",JIRAYA
-http://dns.p2.wtf:80/live/9291400604/34939156n/216809.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/aa/26/08/MEWC8FB_t.png" group-title="Canais | TOKUSATSU",JIBAN
-http://lscliente.xyz:80/genivaldobarreto/genivaldo07/464814
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f2/c7/52/MEWBXZ0_t.png" group-title="Canais | TOKUSATSU",BYCROSSERS
-http://lscliente.xyz:80/genivaldobarreto/genivaldo07/469845
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ed/5b/16/MEWC8DK_t.png" group-title="Canais | TOKUSATSU",GOOGLE FIVE
-http://lscliente.xyz:80/genivaldobarreto/genivaldo07/469893
+http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
 
 ############################################################################ Canais | SÉRIES
 
