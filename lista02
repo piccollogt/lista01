@@ -2009,9 +2009,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/34/03/53/MEVLPXB_t.png" group-title="Canais | SÉRIES",RETRO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/62/2d/e0/MEVLPX0_t.png" group-title="Canais | SÉRIES",AMIGOS E HERMANOS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/53/11/fe/MEVLPWU_t.png" group-title="Canais | SÉRIES",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 
@@ -2036,7 +2033,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaide
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Rede_Brasileira_de_Televis%C3%A3o_Internacional.png" group-title="Canais | SÉRIES",RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/62/2d/e0/MEVLPX0_t.png" group-title="Canais | SÉRIES",RBTI 2
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/66def2a4b60b6_95dba3a2215931a5e0b3490cd842bd98.png" group-title="Canais | SÉRIES",RBTI 2
 https://nxplay-images.comets.com.br/resize/66def2a4b60b6_95dba3a2215931a5e0b3490cd842bd98.png
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="Canais | SÉRIES",FREE TV CRIME
