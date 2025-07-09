@@ -17,9 +17,6 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ec/69/89/MEZPZ4H_t.png" group-title="Canais | ABERTO", GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20140404224338" group-title="Canais | ABERTO", GLOBO
-https://live-as-08-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDgtMDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUyMTE5ODQyLCJpYXQiOjE3NTIwMzM0NDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMWU3MmFjZWUtOTk3OC00MDllLWJhZmMtZmZiNDZhNWI1ZTljIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.DqFuW3EvackUa-NNX7VnPHm0JuEEiDe3ZuHt1Kjszc0TsA_vCYK7dl5jxKrg6Md4LFQbLE1vKRbsLYoSo3Ow5U4ZG0m-UMXGGKy1ZciZw_IgI84CH32A44ADsi6tVAwElWNdRxNWwDxnW7VY_mUngzy5MWvGKQvR3EM2koMLPPr_4ZIC3qxTZhQkAk21QUlc5UYKEQPizo4ICR4-xP76E8NgU5hjJ5XUwha2auSwGBxE0P2uOzdPM2NVi7Dn0rHTEMtL07W_j1j_iIk-KIGTzNzvV-9PowMCTIf6SbWe3TbI6XmKkPCXxHCIyrxVNjwra51rhosQ9q1nns_IJN7c9g/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/0luDAFhxS7CCbGH8q01QIg/stream/75e5bd87-5062-44e5-822b-52ae0d301d34:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/71/50/MEVIHT4_t.png" group-title="Canais | ABERTO",RECORD TVR MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
@@ -5730,33 +5727,21 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c3/91/0a/MEWGRL3_t.png" group-title="Canais | PORTUGAL",Porto Canal
-https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/60/cb/1b/MEWGQW6_t.png" group-title="Canais | PORTUGAL",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/55/56/MEWGN3M_t.png" group-title="Canais | PORTUGAL",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/b1/ea/MEWGQPL_t.png" group-title="Canais | PORTUGAL",RTP 3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/1b/e6/0b/MEWGN77_t.png" group-title="Canais | PORTUGAL",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/80/b1/ea/MEWGQPL_t.png" group-title="Canais | PORTUGAL",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e6/c8/5f/MEWGQPM_t.png" group-title="Canais | PORTUGAL",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpCleanacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/47/d0/MEWGQPP_t.png" group-title="Canais | PORTUGAL",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/12/3d/8a/MEWGQPN_t.png" group-title="Canais | PORTUGAL",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/37/cf/MEW395G_t.png" group-title="Canais | PORTUGAL",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d2/37/cf/MEW395G_t.png" group-title="Canais | PORTUGAL",SIC - LINK 2
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/70/5f/6c/MEWGR0D_t.png" group-title="Canais | PORTUGAL",SIC Noticias
@@ -5767,6 +5752,9 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c8/b9/af/MEWGRJS_t.png" group-title="Canais | PORTUGAL",SIC Alta Definição
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="Canais | PORTUGAL",TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/22/9c/cf/MEZQTX6_t.png" group-title="Canais | PORTUGAL",TVI Internacional 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
@@ -5788,6 +5776,15 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/10/97/MEVKYHF_t.png" group-title="Canais | PORTUGAL",Fuel TV
 https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f56f3131705a25c9cf2d36f50b56b703.webp" group-title="Canais | PORTUGAL",Assim é Portugal
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/chunklist_w143215046.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="Canais | PORTUGAL",TV Portuguesa
+https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w336310122.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="Canais | PORTUGAL",NPC TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w273627653.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/7a/12/ef/MEVKGQB_t.png" group-title="Canais | PORTUGAL",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
@@ -5813,9 +5810,6 @@ https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/79/e2/MEW395L_t.png" group-title="Canais | PORTUGAL",Mana Igreja
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/cb/79/e2/MEW395L_t.png" group-title="Canais | PORTUGAL",Mana Tserkov
-https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/07/cb/7b/MEVSBED_t.png" group-title="Canais | PORTUGAL",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
@@ -5827,15 +5821,6 @@ https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/70/c1/4c/MEVKGQF_t.png" group-title="Canais | PORTUGAL",TV MANA BRASIL
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/13/89/MEW395F_t.png" group-title="Canais | PORTUGAL",TV Mana English
-https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/d3/3d/MEW395H_t.png" group-title="Canais | PORTUGAL",TV Mana Espanhol
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b8/bb/64/MEW395C_t.png" group-title="Canais | PORTUGAL",TV Mana Russkiy
-https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
 
 ############################################################################ Canais | ANGOLA
 
