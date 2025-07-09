@@ -3,7 +3,7 @@
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT
-https://aovivo.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8?ads.start=1&ads.w=1365&ads.h=911&ads.cb=1752033963536&ads.ip=189.62.149.223&ads.ua=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/138.0.0.0%20Safari/537.36&ads.lat=&ads.lon=&ads.dnt=&ads.ic=&ads.ap=1&ads.app_bundle=&ads.app_name=%252Bsbt&ads.app_store_url=&ads.inv_partner_domain=sbt.com.br&ads.mute=0&ads.placement=1&ads.content_id=&ads.content_episode=&ads.content_title=The%20Noite%20com%20Danilo%20Gentili&ads.content_series=&ads.content_season=&ads.content_genre=variedade&ads.content_livestream=1&ads.content_producer_name=SBT&ads.content_categories=variedade&ads.content_keywords=&ads.rating=PG&ads.language=pt-br&ads.network_name=sbt&ads.did=1784151228214549&ads.device_make=Chrome%2520138.0&ads.device_model=desktop&ads.brand_name=&ads.country=BR&ads.ifa_type=dpid&ads.content_custom_1_param=uat-1.16.6&ads.content_custom_2_param=Web&ads.content_custom_3_param=2025-07-09T04:06:03.536Z
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/09bc3eab-0438-4d76-8a01-387c153c4539/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png" group-title="Canais | ABERTO",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
