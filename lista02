@@ -2680,9 +2680,6 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 ############################################################################ Canais | HALLO!
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/cb/d5/MEZREKN_t.png" group-title="Canais | HALLO!",Hallo! Anime
-https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/06/cb/d5/MEZREKN_t.png" group-title="Canais | HALLO!",Hallo! Anime - LINK 2
 https://aovivo.doozytv.com.br/31025556/10162072/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ce/13/0d/MEZREKH_t.png" group-title="Canais | HALLO!",Hallo! Classic
