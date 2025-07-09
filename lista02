@@ -2,9 +2,6 @@
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="Canais | ABERTO",SBT
-https://rr5---sn-oxunxg8pjvn-bg0r.googlevideo.com/videoplayback?expire=1752056058&ei=muxtaIT0HeiV9cYPn5bfqQY&ip=177.141.154.215&id=LLpNUqHVam8.1%7E45700902&source=yt_live_broadcast&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752034458%2C&mh=FH&mm=44%2C29&mn=sn-oxunxg8pjvn-bg0r%2Csn-bg0e6nle&ms=lva%2Crdu&mv=m&mvi=5&pl=19&rms=lva%2Clva&hcs=%2Csd&smhost=%2Crr4---sn-bg0e6n7e.googlevideo.com&pcm2=no&gcr=br&initcwndbps=2116250&ss=1&ssa=1&spc=l3OVKQZ0-p3FfsaMJiVMleXjmNtpwBGylKtyfiGW8JgpcMNoGXHIN0A3UEYCnyZ-&live=1&hang=1&noclen=1&svpuc=1&ns=ilCjVgznDksQjObc-RCcKhUQ&sabr=1&rqh=1&mt=1752034115&fvip=2&keepalive=yes&fexp=51355912&c=WEB&n=LMfXyxerG69z7Q&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cgcr%2Css%2Cssa%2Cspc%2Clive%2Chang%2Cnoclen%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRAIgXG1X5DP2bQ8peclmjd8JHVKiCFfjhfAsV_ycKyaGk98CICewPeT4Qmqo2QsFfHbhDdoWGRxkgwNkNgDLSKJvqef5&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Chcs%2Csmhost%2Cinitcwndbps&lsig=APaTxxMwRQIhALESlxjSFoVT94wmv86aM5Sp0y2xzxLCcclkHi_ti7c4AiBTrfHRDtt1uZeamFZ93JLmLohtifb2xrTcvrOGJ1F57Q%3D%3D&cpn=w_OcsABV_Hf-WphD&cver=2.20250708.01.00&rn=14&alr=yes
-
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/07/b9/4e/MEVIHEX_o.png" group-title="Canais | ABERTO",SBT TV Guajará PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 
@@ -276,7 +273,7 @@ https://stmv1.srvif.com/tvserie/tvserie/chunklist_w744484933.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4b/c5/6d/MEVR68B_t.png" group-title="Canais | FILMES",TV CHANNEL NETWORK
 https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/9d/6c/MEVR68I_t.png" group-title="Canais | FILMES",TV SERIES
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2d/9d/6c/MEVR68I_t.png" group-title="Canais | FILMES",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6d/79/57/MEVR68K_t.png" group-title="Canais | FILMES",Dark Flix
@@ -310,19 +307,10 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1971453597.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/17/d7/MEVRB3I_t.png" group-title="Canais | FILMES",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/f1/17/d7/MEVRB3I_t.png" group-title="Canais | FILMES",CLASSIQUE TV HD
 https://stmv1.srvif.com/classique/classique/chunklist_w529168788.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/f2/6b/MEVRB3B_t.png" group-title="Canais | FILMES",TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/b9/f2/6b/MEVRB3B_t.png" group-title="Canais | FILMES",TV CLUBE WEB HD
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w815335148.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/56/e7/59/MEVRB3C_t.png" group-title="Canais | FILMES",KE TV
-https://stmv1.srvif.com/ketv/ketv/chunklist_w2115205312.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="Canais | FILMES",CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
@@ -330,19 +318,10 @@ https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="Canais | FILMES",CHANNEL 1 HD
 https://stmv1.srvif.com/movies1/movies1/chunklist_w494333408.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c2/56/6c/MEVRB2L_t.png" group-title="Canais | FILMES",REDE UTV
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/6c/5c/MEVRB2V_t.png" group-title="Canais | FILMES",TV WTJ MINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ae/6c/5c/MEVRB2V_t.png" group-title="Canais | FILMES",TV WTJ MINAS HD
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1795874724.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c5/12/64/MEVR68J_t.png" group-title="Canais | FILMES",GRJNGO
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c5/12/64/MEVR68J_t.png" group-title="Canais | FILMES",GRJNGO HD
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c5/12/64/MEVR68J_t.png" group-title="Canais | FILMES",GRJNGO Español
@@ -354,68 +333,29 @@ https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w820641838.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/37/28/MEVR68H_t.png" group-title="Canais | FILMES",TV GRU WEB
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1894910661.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c4/37/28/MEVR68H_t.png" group-title="Canais | FILMES",TV GRU WEB HD
-https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1392908283.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6b/fc/6b/MEVRB37_t.png" group-title="Canais | FILMES",TV TRIBUNA REGIONAL
 https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/73/78/61/MEVRCF2_t.png" group-title="Canais | FILMES",TELEWEB TV
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w1015001392.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/73/78/61/MEVRCF2_t.png" group-title="Canais | FILMES",TELEWEB TV HD
-https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w43901274.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/30/98/MEVRCF7_t.png" group-title="Canais | FILMES",TV DIVERSIDADE
-https://cdn.live.br1.jmvstream.com/w/AVJ-12928/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/30/98/MEVRCF7_t.png" group-title="Canais | FILMES",TV DIVERSIDADE HD
 https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1038458315.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/32/30/98/MEVRCF7_t.png" group-title="Canais | FILMES",TV DIVERSIDADE FHD
-https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/10/f6/d3/MEVRCF5_t.png" group-title="Canais | FILMES",WEB TV PROGRESSO
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w479490963.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/10/f6/d3/MEVRCF5_t.png" group-title="Canais | FILMES",WEB TV PROGRESSO HD
-https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1552757062.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/10/f6/d3/MEVRCF5_t.png" group-title="Canais | FILMES",WEB TV PROGRESSO FHD
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/da/ab/b6/MEVRCEY_t.png" group-title="Canais | FILMES",ABC BRASIL
-https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w1676854360.m3u8
+https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4e/03/50/MEVRCES_t.png" group-title="Canais | FILMES",VIA MORENA
 https://video01.logicahost.com.br/viamorena01/viamorena01/chunklist_w785783007.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/4e/03/50/MEVRCES_t.png" group-title="Canais | FILMES",VIA MORENA HD
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w1880100884.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ad/2f/cf/MEVRCEW_t.png" group-title="Canais | FILMES",TV RBC
-https://5fb29de4928ea.streamlock.net/id2515/id2515/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/de/a9/MEVRCEV_t.png" group-title="Canais | FILMES",BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w359950577.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/ef/de/a9/MEVRCEV_t.png" group-title="Canais | FILMES",BLITS TV HD
-https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w1739888619.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/6c/6b/MEVRCF4_t.png" group-title="Canais | FILMES",TOP MIX TV FILMES
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w404473488.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/a7/6c/6b/MEVRCF4_t.png" group-title="Canais | FILMES",TOP MIX TV FILMES HD
-https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w164075002.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/55/02/57/MEVRCF1_t.png" group-title="Canais | FILMES",TV MEU XODO
-https://stmv8.samcast.com.br/ozemar6751/ozemar6751/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/50/11/16/MEVRCET_t.png" group-title="Canais | FILMES",QTAL CHANNEL
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w415470775.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/50/11/16/MEVRCET_t.png" group-title="Canais | FILMES",QTAL CHANNEL HD
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w2141346469.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/c6/6c/fb/MEVRCF6_t.png" group-title="Canais | FILMES",SEVEN TV
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
@@ -423,44 +363,20 @@ https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/2d/19/MEVRCF8_t.png" group-title="Canais | FILMES",TV J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1305331144.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/9a/2d/19/MEVRCF8_t.png" group-title="Canais | FILMES",TV J.SID HD
-https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1691463187.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/91/41/c0/MEVRF71_t.png" group-title="Canais | FILMES",REDE QDM
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1192453697.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/91/41/c0/MEVRF71_t.png" group-title="Canais | FILMES",REDE QDM HD
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1893098127.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/2e/15/d1/MEVRF6Z_t.png" group-title="Canais | FILMES",TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w870388233.m3u8
 
 #EXTINF:-1 tvg-logo="https://images4.imagebam.com/ba/52/58/MEVRF75_o.png" group-title="Canais | FILMES",Tv Vargem
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w362411647.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/e5/55/d2/MEVRF6W_t.png" group-title="Canais | FILMES",REDE METRÓPOLE LITORAL
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0c/f7/68/MEVRF73_t.png" group-title="Canais | FILMES",MYTIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0c/f7/68/MEVRF73_t.png" group-title="Canais | FILMES",MYTIME HD
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/d8/b7/5a/MEVRF6U_t.png" group-title="Canais | FILMES",TV GOSPEL EXODUS DE SALVADOR
 https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w122439057.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6d/79/57/MEVR68K_t.png" group-title="Canais | FILMES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0a/77/b5/MEVRF6V_t.png" group-title="Canais | FILMES",LIFE SCTV
-https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1386838516.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/0a/77/b5/MEVRF6V_t.png" group-title="Canais | FILMES",LIFE SCTV HD
-https://video05.logicahost.com.br/lifesctv/lifesctv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/6c/43/02/MEVRF6Y_t.png" group-title="Canais | FILMES",TV A7
-https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/67/e8/0a/MEVRF70_t.png" group-title="Canais | FILMES",TV CLASSICOS
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1069820980.m3u8
