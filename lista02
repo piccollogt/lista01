@@ -83,14 +83,5 @@ http://24hrs.homelinux.com/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", NSPORTS
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", 01
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", 01
-http://ngzcdn.royalflushdns.top/live/661130059/J780p4176C/376344.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTUzMDIzOTksImlhdCI6MTc1NTIxNjAwMCwibmJmIjoxNzU1MjE2MDAwLCJ1c2VyIjoiNjYxMTMwMDU5IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xMDcuMC4xNDE4LjYyIiwidXNlcklwIjoiMTg1LjIzNi4xODMuMTA3OjUxOTUwIn0.EXy_yUTC49PJDRdnmPBoj5X-_MoDFvZh3RIIhjMg-3Q&id=376344&p=m3u8&aid=1755296154
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", 01
-http://nczcdn.royalflushdns.top/live/661130059/J780p4176C/352.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTUzMDIzOTksImlhdCI6MTc1NTIxNjAwMCwibmJmIjoxNzU1MjE2MDAwLCJ1c2VyIjoiNjYxMTMwMDU5IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBTTS1KNDEwRyBCdWlsZC9NMUFKQjsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS8xMzguMC43MjA0LjE3OSBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInVzZXJJcCI6IjE4NS4yMzYuMTgzLjEwNzozNzE2NiJ9.RzwajeYAan-Qrk7fEdGlYE9t6RSuJPhIEhNzJmb3CjU&id=352&p=m3u8&aid=1755297118
-
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", 01
-http://24hrs.homelinux.com:8080/24H-ospadrinhosmagicos/video.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Pegadinhas Silvio Santos
+http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
