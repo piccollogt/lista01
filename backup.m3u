@@ -1,4 +1,4 @@
- #EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,awtv.cloudecast.com/playout/download_epg.php"  size="Medium"
 
 ##############################################
 ###### ANIME E TOKUSATSU = 13 Canais #########
