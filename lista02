@@ -1,14 +1,43 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml"  size="Medium"
 
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", JASPION
+http://24hrs.homelinux.com:80/24H-jaspion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", BAND
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(3sJ_BFpmL4Hdz0iLBuY0pHtsNGmiIcCLx_wscpofwZgTMiy-BJ5nFUtH35qPvsvdA-6Be1w2_oXMGjqut_fnRnSQ7pbdlzd-SZBhzsgX2eoX67rK7BU-aHuWu7BXSJ8h)/cloud/3/x83vbd6/s/live-1080.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", JIRAYA
+http://24hrs.homelinux.com:80/24H-Jiraya/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Todo Mundo Odeia o Chris
-http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", CYBERCOPS
+http://24hrs.homelinux.com:80/24H-Cybercops.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", X-MEN EVOLUTION
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", HE-MAN
+http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Hantaro
+http://24hrs.homelinux.com:80/24H-hantaro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Digimon
+http://24hrs.homelinux.com:80/24H-digimon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Pokémon
+http://24hrs.homelinux.com:80/24H-pokemon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Ultraman (Netflix)
+http://24hrs.homelinux.com:80/24H-Ultraman.S01/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Boruto Next Generation
+http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Avatar A Lenda de Korra
+http://24hrs.homelinux.com:80/24H-avataralendadekorra/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Avatar A Lenda de Aang
+http://24hrs.homelinux.com:80/24H-avataralendadeaang/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Dois Homens e Meio
-http://24hrs.homelinux.com:8080/24H-2HomensEmeio/playlist.m3u8
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Super Mário Bros
 http://24hrs.homelinux.com:80/24H-supermario/video.m3u8
@@ -17,7 +46,7 @@ http://24hrs.homelinux.com:80/24H-supermario/video.m3u8
 http://24hrs.homelinux.com:80/24H-cavaleiros/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Dragon Ball
-http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Tom e Jerry
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
@@ -26,46 +55,46 @@ http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8
 http://24hrs.homelinux.com:80/24H-aladdin/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Chaves
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Wolverine
-http://24hrs.homelinux.com:8080/24H-wolverine/video.m3u8
+http://24hrs.homelinux.com:80/24H-wolverine/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Denis o Pimentinha
-http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
+http://24hrs.homelinux.com:80/24H-denisopimentinha/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Star Wars Rebels
-http://24hrs.homelinux.com:8080/24H-starwarsrebels/video.m3u8
+http://24hrs.homelinux.com:80/24H-starwarsrebels/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Pernalonga
-http://24hrs.homelinux.com:8080/24H-pernalonga.txt/tracks-v1a1/mono.m3u8
+http://24hrs.homelinux.com:80/24H-pernalonga.txt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Zé Buscapé
-http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
+http://24hrs.homelinux.com:80/24H-zebuscape/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Tartaruga Tuche
-http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
+http://24hrs.homelinux.com:80/24H-tartarugatuche/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Jambo e Ruivão
-http://24hrs.homelinux.com:8080/24H-jamboeruivao/video.m3u8
+http://24hrs.homelinux.com:80/24H-jamboeruivao/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Coragem o Cão Covarde
-http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8?
+http://24hrs.homelinux.com:80/24H-caocoragem/video.m3u8?
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Maguila o Gorila
-http://24hrs.homelinux.com:8080/24H-maguilaogurila/video.m3u8
+http://24hrs.homelinux.com:80/24H-maguilaogurila/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", João Grandão
-http://24hrs.homelinux.com:8080/24H-joaograndao/video.m3u8
+http://24hrs.homelinux.com:80/24H-joaograndao/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Timão e Pumba
-http://24hrs.homelinux.com:8080/24H-timaoepumba/video.m3u8
+http://24hrs.homelinux.com:80/24H-timaoepumba/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Os Simpsons
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Um Maluco no Pedaço
-http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Dragon Ball Super
 http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
@@ -80,10 +109,18 @@ http://24hrs.homelinux.com:80/24H-Street.Fighter.S01/video.m3u8
 http://24hrs.homelinux.com:80/24H-dragon.ball.gt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Ben 10
-http://24hrs.homelinux.com/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8?
+http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", NSPORTS
-https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", CHAVES
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", CHAVES DESENHO
+http://24hrs.homelinux.com:80/24H-chavesdesenho/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", CHAPOLIN COLORADO
+http://24hrs.homelinux.com:80/24H-chapolin1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Pegadinhas Silvio Santos
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
+
+
