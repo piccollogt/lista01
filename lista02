@@ -12,6 +12,15 @@ http://24hrs.homelinux.com:80/24H-Cybercops.S01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", X-MEN EVOLUTION
 http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", IRON MAN
+http://24hrs.homelinux.com:80/24H-ironman/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", OS FLINTSTONES
+http://24hrs.homelinux.com:80/24H-osflistony/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", THUNDERCATS
+http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", HE-MAN
 http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
 
@@ -45,6 +54,15 @@ http://24hrs.homelinux.com:80/24H-supermario/video.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Os Cavaleiros do Zodíaco
 http://24hrs.homelinux.com:80/24H-cavaleiros/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", SCOOBY-DOO
+http://24hrs.homelinux.com:80/24H-scoobdoo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", CORRIDA MALUCA
+http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", CAVERNA DRAGAO
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Dragon Ball
 http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?ROGERIOTORRES
 
@@ -74,6 +92,15 @@ http://24hrs.homelinux.com:80/24H-zebuscape/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Tartaruga Tuche
 http://24hrs.homelinux.com:80/24H-tartarugatuche/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", PATOLINO
+http://24hrs.homelinux.com:80/24H-patolino/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", TAZ-MANIA
+http://24hrs.homelinux.com:80/24H-tazmania/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", PEPELEGAL
+http://24hrs.homelinux.com:80/24H-pepelegal/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs4.imagebam.com/71/04/b1/MEVRB2X_t.png" group-title="BRASIL", Jambo e Ruivão
 http://24hrs.homelinux.com:80/24H-jamboeruivao/video.m3u8
