@@ -55,4 +55,61 @@ http://15.235.9.200:14871/
 http://15.235.9.200:14870/
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",01
-http://15.235.9.200:15870/
+http://15.235.9.200:14869/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",02
+http://15.235.9.200:14868/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",03
+http://15.235.9.200:14867/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",04
+http://15.235.9.200:14866/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",05
+http://15.235.9.200:14865/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",06
+http://15.235.9.200:14864/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",07
+http://15.235.9.200:14863/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",08
+http://15.235.9.200:14862/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",09
+http://15.235.9.200:14861/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",10
+http://15.235.9.200:14860/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",11
+http://15.235.9.200:14888/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",12
+http://15.235.9.200:14889/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",13
+http://15.235.9.200:14890/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",14
+http://15.235.9.200:14891/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",15
+http://15.235.9.200:14892/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",16
+http://15.235.9.200:14893/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",17
+http://15.235.9.200:14894/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",18
+http://15.235.9.200:14895/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",19
+http://15.235.9.200:14896/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",20
+http://15.235.9.200:14897/
