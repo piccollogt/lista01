@@ -53,3 +53,6 @@ http://15.235.9.200:14871/
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",Dino Boy
 http://15.235.9.200:14870/
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="Canais | ANIMES 24 HORAS",01
+http://15.235.9.200:15870/
